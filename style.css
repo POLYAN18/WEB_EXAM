@@ -166,7 +166,6 @@ body {
 
 .d-app2 {
     color: #e3fe0f;
-    text-align: left;
     font-family: "NeueMachina-Regular", sans-serif ;
     font-size: 20px;
     line-height: 140%;
@@ -174,7 +173,7 @@ body {
     position: absolute;
     left: 35%;
     bottom: 32.22%;
-    top: 36.67%;
+    top: 20.67%;
     height: 31.11%;
 }
 
@@ -413,7 +412,7 @@ body {
     border-color: #838383;
     border-width: 1px;
     width: 100%;
-    height: 100%;
+    height: 115%;
     position: absolute;
     right: 0%;
     left: 0%;
@@ -478,6 +477,7 @@ body {
     align-items: flex-start;
     justify-content: flex-start;
     position: relative;
+    right: -50px;
 }
 
 .choose_why-choose-us {
@@ -1195,4 +1195,280 @@ body {
   line-height: 140%;
   font-weight: 400;
   letter-spacing: 2px
+}
+
+
+
+.token_tokenomics,
+.token_tokenomics * {
+  box-sizing: border-box;
+}
+.token_tokenomics {
+  position: relative;
+  top: 500px;
+  right: -50px;
+  display: flex;
+  gap: 30px;
+}
+.token_tokenomics2 {
+  color: #ffffff;
+  text-align: left;
+  font-family: "NeueMachina-Bold", sans-serif;
+  font-size: 42px;
+  line-height: 120%;
+  font-weight: 700;
+  position: absolute;
+  left: calc(50% - 500px);
+  top: 0px;
+}
+.token_frame-218 {
+  display: flex;
+  flex-direction: row;
+  gap: 20px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-wrap: wrap;
+  align-content: flex-start;
+  width: 1000px;
+  height: 500px;
+  position: absolute;
+  left: 0px;
+  top: 90px;
+}
+.token_list {
+  display: flex;
+  height: 300px;
+  flex-direction: column;
+  gap: 30px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.token_token {
+  flex-shrink: 0;
+  width: 490px;
+  height: 74px;
+  position: relative;
+}
+.token_frame-283 {
+  border-radius: 15px;
+  border-style: solid;
+  border-color: #ffffff;
+  border-width: 1px;
+  padding: 30px;
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: center;
+  justify-content: flex-start;
+  width: 490px;
+  position: absolute;
+}
+.token_token2 {
+  color: #ffffff;
+  text-align: left;
+  font-family:"NeueMachina-Regular",sans-serif;
+  font-size: 20px;
+  line-height: 140%;
+  font-weight: 400;
+  position: relative;
+}
+.token_frame-282 {
+  background: #e3fe0f;
+  border-radius: 15px;
+  padding: 30px;
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: center;
+  justify-content: flex-end;
+  width: 236.79px;
+  position: relative;
+  left: 253.22px;
+
+}
+.token_vuetoken {
+  color: #17161e;
+  text-align: left;
+  font-family:"NeueMachina-Regular",sans-serif;
+  font-size: 20px;
+  line-height: 140%;
+  font-weight: 400;
+  position: relative;
+  width: 110px;
+}
+.token_total-supply {
+  flex-shrink: 0;
+  width: 490px;
+  height: 74px;
+  position: relative;
+}
+
+.token_total-supply2 {
+  color: #ffffff;
+  text-align: left;
+  font-family:"NeueMachina-Regular", sans-serif;
+  font-size: 20px;
+  line-height: 140%;
+  font-weight: 400;
+  position: relative;
+}
+
+.token__100-m {
+  color: #17161e;
+  text-align: left;
+  font-family:"NeueMachina-Regular",sans-serif;
+  font-size: 20px;
+  line-height: 140%;
+  font-weight: 400;
+  position: relative;
+}
+.token_chain {
+  flex-shrink: 0;
+  width: 490px;
+  height: 74px;
+  position: relative;
+}
+
+.token_chain2 {
+  color: #ffffff;
+  text-align: left;
+  font-family:"NeueMachina-Regular",sans-serif;
+  font-size: 20px;
+  line-height: 140%;
+  font-weight: 400;
+  position: relative;
+}
+
+.token_trc-20 {
+  color: #17161e;
+  text-align: left;
+  font-family: "NeueMachina-Regular", sans-serif;
+  font-size: 20px;
+  line-height: 140%;
+  font-weight: 400;
+  position: relative;
+}
+.token_symbol {
+  flex-shrink: 0;
+  width: 490px;
+  height: 74px;
+  position: static;
+}
+.token_symbol2 {
+  color: #ffffff;
+  text-align: left;
+  font-family:"NeueMachina-Regular", sans-serif;
+  font-size: 20px;
+  line-height: 140%;
+  font-weight: 400;
+  position: relative;
+}
+.token_vuet {
+  color: #17161e;
+  text-align: left;
+  font-family:"NeueMachina-Regular",sans-serif;
+  font-size: 20px;
+  line-height: 140%;
+  font-weight: 400;
+  position: relative;
+}
+.token_launch {
+  flex-shrink: 0;
+  width: 490px;
+  height: 74px;
+  position: relative;
+}
+.token_launch2 {
+  color: #ffffff;
+  text-align: left;
+  font-family:"NeueMachina-Regular",sans-serif;
+  font-size: 20px;
+  line-height: 140%;
+  font-weight: 400;
+  position: relative;
+}
+.token_fair-launch {
+  color: #17161e;
+  text-align: left;
+  font-family: "NeueMachina-Regular",sans-serif;
+  font-size: 20px;
+  line-height: 140%;
+  font-weight: 400;
+  position: relative;
+}
+.token_taxes {
+  flex-shrink: 0;
+  width: 490px;
+  height: 74px;
+  position: relative;
+}
+.token_taxes2 {
+  color: #ffffff;
+  text-align: left;
+  font-family:"NeueMachina-Regular",sans-serif;
+  font-size: 20px;
+  line-height: 140%;
+  font-weight: 400;
+  position: relative;
+}
+.token__5-5 {
+  color: #17161e;
+  text-align: left;
+  font-family:"NeueMachina-Regular",sans-serif;
+  font-size: 20px;
+  line-height: 140%;
+  font-weight: 400;
+  position: relative;
+}
+.token_taxes3 {
+  flex-shrink: 0;
+  width: 1000px;
+  height: 74px;
+  position: static;
+}
+.token_frame-2834 {
+    border-radius: 15px;
+    border-style: solid;
+    border-color: #ffffff;
+    border-width: 1px;
+    padding: 30px;
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+    align-items: center;
+    justify-content: flex-start;
+    width: 1000px;
+    position: absolute;
+}
+.token__0-x-1258-d-60-b-224-c-0-c-5-cd-888-d-37-bbf-31-aa-5-fcfb-7-e-870 {
+  color: #ffffff;
+  text-align: left;
+  font-family: "NeueMachina-Regular", sans-serif;
+  font-size: 20px;
+  line-height: 140%;
+  font-weight: 400;
+  position: relative;
+}
+.token_frame-2824 {
+  background: #e3fe0f;
+  border-radius: 15px;
+  padding: 22px 30px 22px 30px;
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: center;
+  justify-content: flex-end;
+  width: 236.71px;
+  height: 88px;
+  position: absolute;
+  right: 0px;
+}
+.token_vector {
+  flex-shrink: 0;
+  width: 20px;
+  height: 26px;
+  position: relative;
+  overflow: visible;
 }
