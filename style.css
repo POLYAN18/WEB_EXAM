@@ -440,3 +440,351 @@
     top: 0px;
     object-fit: cover;
 }
+
+
+
+
+.choose_div,
+.choose_div * {
+    box-sizing: border-box;
+}
+
+.choose_div {
+    display: flex;
+    flex-direction: column;
+    gap: 60px;
+    align-items: flex-start;
+    justify-content: flex-start;
+    position: relative;
+}
+
+.choose_why-choose-us {
+    color: var(--belyj, #ffffff);
+    text-align: left;
+    font-family: var( --desktop-1200-h2-font-family, "NeueMachina-Bold", sans-serif );
+    font-size: var(--desktop-1200-h2-font-size, 42px);
+    line-height: var(--desktop-1200-h2-line-height, 120%);
+    font-weight: var(--desktop-1200-h2-font-weight, 700);
+    position: relative;
+}
+
+.choose_div2 {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    align-items: flex-start;
+    justify-content: flex-start;
+    flex-shrink: 0;
+    position: relative;
+}
+
+.choose_div3 {
+    display: flex;
+    flex-direction: row;
+    gap: 20px;
+    align-items: flex-start;
+    justify-content: flex-start;
+    flex-shrink: 0;
+    min-height: 260px;
+    position: relative;
+}
+
+.choose_subnetix {
+    align-self: stretch;
+    flex-shrink: 0;
+    width: 320px;
+    position: static;
+}
+
+.choose_subnetix2 {
+    background: var(--zelenyj, #e3fe0f);
+    border-radius: 15px;
+    padding: 30px;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    align-items: flex-start;
+    justify-content: flex-start;
+    width: 320px;
+    height: 260px;
+    position: absolute;
+    left: 0px;
+    top: 0px;
+}
+
+.choose_title {
+    display: flex;
+    flex-direction: row;
+    gap: 32px;
+    align-items: center;
+    justify-content: flex-start;
+    flex-shrink: 0;
+    position: relative;
+}
+
+.choose_div4 {
+    flex-shrink: 0;
+    width: 36px;
+    height: 30px;
+    position: relative;
+    overflow: visible;
+}
+
+.choose_subnetix3 {
+    color: var(--osnovnoj-temnyj, #17161e);
+    text-align: left;
+    font-family: var( --desktop-1200-h3-font-family, "NeueMachina-Medium", sans-serif );
+    font-size: var(--desktop-1200-h3-font-size, 24px);
+    line-height: var(--desktop-1200-h3-line-height, 120%);
+    font-weight: var(--desktop-1200-h3-font-weight, 500);
+    position: relative;
+}
+
+.choose_tap-into-the-burgeoning-bittensor-subnet-ecosystem-participate-in-a-vibrant-derivatives-market-fueling-innovation-and-growth-for-tensor-processing-unit {
+    color: var(--osnovnoj-temnyj, #17161e);
+    text-align: left;
+    font-family: "IbmPlexMono-Regular", sans-serif;
+    font-size: 16px;
+    line-height: 140%;
+    font-weight: 400;
+    position: relative;
+    align-self: stretch;
+}
+
+.choose_space {
+    background: var(--osnovnoj-temnyj, #17161e);
+    border-radius: 15px;
+    border-style: solid;
+    border-color: var(--belyj, #ffffff);
+    border-width: 1px;
+    padding: 30px;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    align-items: flex-start;
+    justify-content: flex-start;
+    align-self: stretch;
+    flex-shrink: 0;
+    width: 320px;
+    position: relative;
+}
+
+.choose_frame-258 {
+    flex-shrink: 0;
+    width: 32px;
+    height: 30px;
+    position: relative;
+}
+
+.choose_group-272 {
+    width: 86.67%;
+    height: 100%;
+    position: absolute;
+    right: 7.5%;
+    left: 5.83%;
+    bottom: 0%;
+    top: 0%;
+    overflow: visible;
+}
+
+.choose_space2 {
+    color: var(--belyj, #ffffff);
+    text-align: left;
+    font-family: var( --desktop-1200-h3-font-family, "NeueMachina-Medium", sans-serif );
+    font-size: var(--desktop-1200-h3-font-size, 24px);
+    line-height: var(--desktop-1200-h3-line-height, 120%);
+    font-weight: var(--desktop-1200-h3-font-weight, 500);
+    position: relative;
+}
+
+.choose_access-the-processing-power-you-need-when-you-need-it-scale-projects-seamlessly-with-a-decentralized-marketplace-of-gp-us-tp-us-and-cutting-edge-lp-us {
+    color: var(--belyj, #ffffff);
+    text-align: left;
+    font-family: "IbmPlexMono-Regular", sans-serif;
+    font-size: 16px;
+    line-height: 140%;
+    font-weight: 400;
+    position: relative;
+    align-self: stretch;
+}
+
+.choose_craft {
+    background: var(--zelenyj, #e3fe0f);
+    border-radius: 15px;
+    padding: 30px;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    align-items: flex-start;
+    justify-content: flex-start;
+    align-self: stretch;
+    flex-shrink: 0;
+    width: 320px;
+    position: relative;
+}
+
+.choose_icon {
+    flex-shrink: 0;
+    width: 36px;
+    height: 30px;
+    position: relative;
+}
+
+.choose_group-259 {
+    width: 80%;
+    height: 100%;
+    position: absolute;
+    right: 10%;
+    left: 10%;
+    bottom: 0%;
+    top: 0%;
+    overflow: visible;
+}
+
+.choose_craft2 {
+    color: #17161e;
+    text-align: left;
+    font-family: "NeueMachina-Medium", sans-serif ;
+    font-size: 24px;
+    line-height: 120%;
+    font-weight: 500;
+    position: relative;
+}
+
+.choose_accelerate-development-and-deployment-with-our-intuitive-no-code-ai-application-building-platform-empowering-users-of-all-skill-levels {
+    color: #17161e;
+    text-align: left;
+    font-family: "IbmPlexMono-Regular", sans-serif;
+    font-size: 16px;
+    line-height: 140%;
+    font-weight: 400;
+    position: relative;
+    align-self: stretch;
+}
+
+.choose_icon2 {
+    flex-shrink: 0;
+    width: 36px;
+    height: 30px;
+    position: relative;
+    overflow: hidden;
+}
+
+.choose_group-266 {
+    height: auto;
+    position: absolute;
+    left: 6.6px;
+    top: 0px;
+    overflow: visible;
+}
+
+.choose_foundry {
+    color: #ffffff;
+    text-align: left;
+    font-family: "NeueMachina-Medium", sans-serif ;
+    font-size: 24px;
+    line-height: 120%;
+    font-weight: 500;
+    position: relative;
+}
+
+.choose_we-use-blockchain-technology-to-keep-your-data-payment-funds-and-usage-secure-it-adds-an-extra-layer-of-protection-to-your-information-is-safe-and-trustworthy {
+    color: #ffffff;
+    text-align: left;
+    font-family: "IbmPlexMono-Regular", sans-serif;
+    font-size: 16px;
+    line-height: 140%;
+    font-weight: 400;
+    position: relative;
+    align-self: stretch;
+}
+
+.choose_subnetix4 {
+    background: #e3fe0f;
+    border-radius: 15px;
+    padding: 30px;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    align-items: flex-start;
+    justify-content: flex-start;
+    width: 320px;
+    height: 260px;
+    position: absolute;
+    left: 340px;
+    top: 0px;
+}
+
+.choose_group-268 {
+    width: 71.67%;
+    height: 100%;
+    position: absolute;
+    right: -56.67%;
+    left: 85%;
+    bottom: 0%;
+    top: 0%;
+    transform: translate(-25.8px, 0px);
+    overflow: visible;
+}
+
+.choose_nodes {
+    color: #17161e;
+    text-align: left;
+    font-family: "NeueMachina-Medium", sans-serif ;
+    font-size: 24px;
+    line-height: 120%;
+    font-weight: 500;
+    position: relative;
+}
+
+.choose_access-the-processing-power-you-need-when-you-need-it-scale-projects-seamlessly-with-a-decentralized-marketplace-of-gp-us-tp-us-and-cutting-edge-lp-us2 {
+    color: #17161e;
+    text-align: left;
+    font-family: "IbmPlexMono-Regular", sans-serif;
+    font-size: 16px;
+    line-height: 140%;
+    font-weight: 400;
+    position: relative;
+    align-self: stretch;
+}
+
+.choose_icon3 {
+    flex-shrink: 0;
+    width: 35px;
+    height: 30px;
+    position: relative;
+    overflow: hidden;
+}
+
+.choose_group-260 {
+    width: 92.79%;
+    height: 90%;
+    position: absolute;
+    right: -89.01%;
+    left: 96.23%;
+    bottom: 4%;
+    top: 6%;
+    transform: translate(-32.48px, 0px);
+    overflow: visible;
+}
+
+.choose_gp-us {
+    color: #ffffff;
+    text-align: left;
+    font-family: "NeueMachina-Medium", sans-serif ;
+    font-size: 24px;
+    line-height: 120%;
+    font-weight: 500;
+    position: relative;
+}
+
+.choose_tap-into-the-burgeoning-bittensor-subnet-ecosystem-participate-in-a-vibrant-derivatives-market-fueling-innovation-and-growth-for-tensor-processing-unit2 {
+    color: #ffffff;
+    text-align: left;
+    font-family: "IbmPlexMono-Regular", sans-serif;
+    font-size: 16px;
+    line-height: 140%;
+    font-weight: 400;
+    position: relative;
+    align-self: stretch;
+}
