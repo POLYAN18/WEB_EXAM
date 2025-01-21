@@ -1,8 +1,13 @@
+body {
+    display: flex;
+    justify-content:center;
+    background-color: #17161e;
+
+}
+
 
 
 ._1200 {
-    background: #17161e;
-    padding: 10px;
     height: 5796px;
     position: relative;
     overflow: hidden;
@@ -787,4 +792,356 @@
     font-weight: 400;
     position: relative;
     align-self: stretch;
+}
+
+.roadmap,
+.roadmap * {
+  box-sizing: border-box;
+}
+.roadmap {
+  display: flex;
+  flex-direction: column;
+  gap: 60px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  position: relative;
+  top: 100px;
+}
+.roadmap2 {
+  color: #ffffff;
+  text-align: left;
+  font-family: "NeueMachina-Bold", sans-serif;
+  font-size: 42px;
+  line-height: 120%;
+  font-weight: 700;
+  position: relative;
+}
+.roadmap_frame-214 {
+  display: flex;
+  flex-direction: row;
+  row-gap: 100px;
+  align-items: flroadmapex-start;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  align-content: flex-start;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+}
+.roadmap_card {
+  display: flex;
+  flex-direction: column;
+  gap: 40px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 220px;
+  position: relative;
+}
+.roadmap_number {
+  background: #ffffff;
+  border-radius: 100px;
+  padding: 30px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  width: 100px;
+  height: 100px;
+  position: relative;
+}
+.roadmap_01 {
+  color: #17161e;
+  text-align: left;
+  font-family: "NeueMachina-Bold", sans-serif;
+  font-size: 42px;
+  line-height: 120%;
+  font-weight: 700;
+  position: relative;
+}
+.roadmap_list {
+  display: flex;
+  flex-direction: column;
+  gap: 25px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+}
+.roadmap_frame-155 {
+  display: flex;
+  flex-direction: row;
+  gap: 12px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+}
+.roadmap_group-273 {
+  flex-shrink: 0;
+  width: 20px;
+  height: 10px;
+  position: relative;
+  overflow: visible;
+}
+.roadmap_launch-node-ai-website-dapp {
+  color: #ffffff;
+  text-align: left;
+  font-family: "IbmPlexMono-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 140%;
+  font-weight: 400;
+  position: relative;
+  flex: 1;
+}
+.roadmap_frame-156 {
+  display: flex;
+  flex-direction: row;
+  gap: 12px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+}
+
+.roadmap_gpu-fair-launch {
+  color: #ffffff;
+  text-align: left;
+  font-family:"IbmPlexMono-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 140%;
+  font-weight: 400;
+  position: relative;
+  flex: 1;
+}
+.roadmap_frame-157 {
+  display: flex;
+  flex-direction: row;
+  gap: 12px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+}
+
+.roadmap_stake-to-earn-rewards {
+  color: #ffffff;
+  text-align: left;
+  font-family:"IbmPlexMono-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 140%;
+  font-weight: 400;
+  position: relative;
+  flex: 1;
+}
+.roadmap_frame-158 {
+  display: flex;
+  flex-direction: row;
+  gap: 12px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+}
+
+.roadmap_build-grow-community {
+  color: #ffffff;
+  text-align: left;
+  font-family: "IbmPlexMono-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 140%;
+  font-weight: 400;
+  position: relative;
+  flex: 1;
+}
+.roadmap_frame-159 {
+  display: flex;
+  flex-direction: row;
+  gap: 12px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+}
+
+.roadmap_referral-program {
+  color: #ffffff;
+  text-align: left;
+  font-family: "IbmPlexMono-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 140%;
+  font-weight: 400;
+  position: relative;
+  flex: 1;
+}
+.roadmap_number2 {
+  background: #ffffff;
+  border-radius: 100px;
+  padding: 30px 26px 30px 26px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  width: 100px;
+  height: 100px;
+  position: relative;
+}
+.roadmap_02 {
+  color: #17161e;
+  text-align: left;
+  font-family:"NeueMachina-Bold", sans-serif;
+  font-size: 42px;
+  line-height: 120%;
+  font-weight:700;
+  position: relative;
+}
+
+.roadmap_number3 {
+  background:#e3fe0f;
+  border-radius: 100px;
+  padding: 30px 26px 30px 26px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  width: 100px;
+  height: 100px;
+  position: relative;
+  box-shadow: 0px 4px 15px 0px rgba(227, 254, 15, 0.25);
+}
+.roadmap_03 {
+  color: #17161e;
+  text-align: left;
+  font-family: "NeueMachina-Bold", sans-serif;
+  font-size: 42px;
+  line-height: 120%;
+  font-weight: 700;
+  position: relative;
+}
+
+.roadmap_launch-node-ai-website-dapp2 {
+  color: #e3fe0f;
+  text-align: left;
+  font-family:"IbmPlexMono-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 140%;
+  font-weight: 400;
+  position: relative;
+  flex: 1;
+}
+
+.roadmap_gpu-fair-launch2 {
+  color: #e3fe0f;
+  text-align: left;
+  font-family: "IbmPlexMono-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 140%;
+  font-weight: 400;
+  position: relative;
+  flex: 1;
+}
+
+.roadmap_stake-to-earn-rewards2 {
+  color: #e3fe0f;
+  text-align: left;
+  font-family: "IbmPlexMono-Regular", sans-serif;
+  font-size: 16px;
+  line-height:140%;
+  font-weight: 400;
+  position: relative;
+  flex: 1;
+}
+
+.roadmap_build-grow-community2 {
+  color: #e3fe0f;
+  text-align: left;
+  font-family: "IbmPlexMono-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 140%;
+  font-weight: 400;
+  position: relative;
+  flex: 1;
+}
+
+.roadmap_referral-program2 {
+  color: #e3fe0f;
+  text-align: left;
+  font-family: "IbmPlexMono-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 140%;
+  font-weight: v400;
+  position: relative;
+  flex: 1;
+}
+.roadmap_number4 {
+  background: #17161e;
+  border-radius: 100px;
+  border-style: solid;
+  border-color: #838383;
+  border-width: 1px;
+  padding: 30px 26px 30px 26px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  width: 100px;
+  height: 100px;
+  position: relative;
+}
+.roadmap_04 {
+  color: #838383;
+  text-align: left;
+  font-family:"NeueMachina-Bold",  sans-serif;
+  font-size: 42px;
+  line-height: 120%;
+  font-weight: 700;
+  position: relative;
+}
+
+
+.roadmap_stake-to-earn-rewards3 {
+  color: #838383;
+  text-align: left;
+  font-family: "IbmPlexMono-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 140%;
+  font-weight: 400;
+  position: relative;
+  flex: 1;
+}
+
+.roadmap_build-grow-community3 {
+  color: #838383;
+  text-align: left;
+  font-family: "IbmPlexMono-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 140%;
+  font-weight: 400;
+  position: relative;
+  flex: 1;
+}
+
+.roadmap_referral-program3 {
+  color: #838383;
+  text-align: left;
+  font-family: "IbmPlexMono-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 140%;
+  font-weight: 400;
+  position: relative;
+  flex: 1;
 }
