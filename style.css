@@ -2,13 +2,30 @@ body {
     display: flex;
     justify-content:center;
     background-color: #17161e;
+    position: relative;
+    
 
+}
+
+.fon,
+.fon * {
+  box-sizing: border-box;
+}
+.fon {
+  /* height: 5796px; */
+  position: absolute;
+  top: -600px;
+  left: -800px;
+
+  /* overflow: visible; */
+  
 }
 
 
 
 ._1200 {
     height: 5796px;
+    width: 1100px;
     position: relative;
     overflow: hidden;
 }
@@ -464,12 +481,12 @@ body {
 }
 
 .choose_why-choose-us {
-    color: var(--belyj, #ffffff);
+    color: #ffffff;
     text-align: left;
-    font-family: var( --desktop-1200-h2-font-family, "NeueMachina-Bold", sans-serif );
-    font-size: var(--desktop-1200-h2-font-size, 42px);
-    line-height: var(--desktop-1200-h2-line-height, 120%);
-    font-weight: var(--desktop-1200-h2-font-weight, 700);
+    font-family:"NeueMachina-Bold", sans-serif ;
+    font-size: 42px;
+    line-height: 120%;
+    font-weight: 700;
     position: relative;
 }
 
@@ -502,7 +519,7 @@ body {
 }
 
 .choose_subnetix2 {
-    background: var(--zelenyj, #e3fe0f);
+    background: #e3fe0f;
     border-radius: 15px;
     padding: 30px;
     display: flex;
@@ -536,17 +553,17 @@ body {
 }
 
 .choose_subnetix3 {
-    color: var(--osnovnoj-temnyj, #17161e);
+    color: #17161e;
     text-align: left;
-    font-family: var( --desktop-1200-h3-font-family, "NeueMachina-Medium", sans-serif );
-    font-size: var(--desktop-1200-h3-font-size, 24px);
-    line-height: var(--desktop-1200-h3-line-height, 120%);
-    font-weight: var(--desktop-1200-h3-font-weight, 500);
+    font-family: "NeueMachina-Medium", sans-serif ;
+    font-size: 24px;
+    line-height: 120%;
+    font-weight: 500;
     position: relative;
 }
 
 .choose_tap-into-the-burgeoning-bittensor-subnet-ecosystem-participate-in-a-vibrant-derivatives-market-fueling-innovation-and-growth-for-tensor-processing-unit {
-    color: var(--osnovnoj-temnyj, #17161e);
+    color: #17161e;
     text-align: left;
     font-family: "IbmPlexMono-Regular", sans-serif;
     font-size: 16px;
@@ -557,10 +574,10 @@ body {
 }
 
 .choose_space {
-    background: var(--osnovnoj-temnyj, #17161e);
+    background: #17161e;
     border-radius: 15px;
     border-style: solid;
-    border-color: var(--belyj, #ffffff);
+    border-color: #ffffff;
     border-width: 1px;
     padding: 30px;
     display: flex;
@@ -593,17 +610,17 @@ body {
 }
 
 .choose_space2 {
-    color: var(--belyj, #ffffff);
+    color: #ffffff;
     text-align: left;
-    font-family: var( --desktop-1200-h3-font-family, "NeueMachina-Medium", sans-serif );
-    font-size: var(--desktop-1200-h3-font-size, 24px);
-    line-height: var(--desktop-1200-h3-line-height, 120%);
-    font-weight: var(--desktop-1200-h3-font-weight, 500);
+    font-family: "NeueMachina-Medium", sans-serif ;
+    font-size: 24px;
+    line-height: 120%;
+    font-weight: 500;
     position: relative;
 }
 
 .choose_access-the-processing-power-you-need-when-you-need-it-scale-projects-seamlessly-with-a-decentralized-marketplace-of-gp-us-tp-us-and-cutting-edge-lp-us {
-    color: var(--belyj, #ffffff);
+    color: #ffffff;
     text-align: left;
     font-family: "IbmPlexMono-Regular", sans-serif;
     font-size: 16px;
@@ -614,7 +631,7 @@ body {
 }
 
 .choose_craft {
-    background: var(--zelenyj, #e3fe0f);
+    background: #e3fe0f;
     border-radius: 15px;
     padding: 30px;
     display: flex;
@@ -1145,3 +1162,38 @@ body {
   position: relative;
   flex: 1;
 }
+
+
+
+
+.important_div,
+.important_div * {
+  width: 1300px;
+  height: 20px;
+}
+.important_div {
+  background: #e3fe0f;
+  padding: 20px;
+  display: flex;
+  flex-direction: row;
+  top: 300px;
+  left: -130px;
+  gap: 10px;
+  align-items: center;
+  justify-content: center;
+  position: relative;
+  transform-origin: 0 0;
+  transform: rotate(-5deg) scale(1, 1);
+}
+.important-information-for-all-customers-important-information-for-all-customers-important-information-for-all-customers-important-informaticustomers {
+  color: #17161e;
+  text-align: left;
+  font-family: "NeueMachina-Regular", sans-serif;
+  font-size: 18px;
+  line-height: 140%;
+  font-weight: 400;
+  position: relative;
+  transform-origin: 0 0;
+  transform: rotate(-0.008deg) scale(1, 1);
+}
+
