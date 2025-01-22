@@ -18,10 +18,10 @@ body {
 
 
 ._1200 {
-    height: 5796px;
-    width: 1100px;
+    height: 6000px;
+    width: 1200px;
     position: relative;
-    /* overflow: hidden; */
+    overflow: hidden;
 }
 
 .header,
@@ -342,7 +342,7 @@ body {
     overflow: visible;
 }
 
-.top_as-well-as-key-features-of-the-project-s-structure-they-were-declared-to-violate-universal-norms-of-morality {
+.top_as-well {
     color: #ffffff;
     text-align: left;
     font-family: 'IBM Plex Mono', arial;
@@ -556,7 +556,7 @@ body {
     position: relative;
 }
 
-.choose_tap-into-the-burgeoning-bittensor-subnet-ecosystem-participate-in-a-vibrant-derivatives-market-fueling-innovation-and-growth-for-tensor-processing-unit {
+.choose_tap-into {
     color: #17161e;
     text-align: left;
     font-family: 'IBM Plex Mono', arial;
@@ -613,7 +613,7 @@ body {
     position: relative;
 }
 
-.choose_access-the-processing-power-you-need-when-you-need-it-scale-projects-seamlessly-with-a-decentralized-marketplace-of-gp-us-tp-us-and-cutting-edge-lp-us {
+.choose_access {
     color: #ffffff;
     text-align: left;
     font-family: 'IBM Plex Mono', arial;
@@ -667,7 +667,7 @@ body {
     position: relative;
 }
 
-.choose_accelerate-development-and-deployment-with-our-intuitive-no-code-ai-application-building-platform-empowering-users-of-all-skill-levels {
+.choose_accelerate {
     color: #17161e;
     text-align: left;
     font-family: 'PP Neue Machina', arial;
@@ -704,7 +704,7 @@ body {
     position: relative;
 }
 
-.choose_we-use-blockchain-technology-to-keep-your-data-payment-funds-and-usage-secure-it-adds-an-extra-layer-of-protection-to-your-information-is-safe-and-trustworthy {
+.choose_we-use {
     color: #ffffff;
     text-align: left;
     font-family: 'IBM Plex Mono', arial;
@@ -753,7 +753,7 @@ body {
     position: relative;
 }
 
-.choose_access-the-processing-power-you-need-when-you-need-it-scale-projects-seamlessly-with-a-decentralized-marketplace-of-gp-us-tp-us-and-cutting-edge-lp-us2 {
+.choose_access-the {
     color: #17161e;
     text-align: left;
     font-family: 'IBM Plex Mono', arial;
@@ -794,7 +794,7 @@ body {
     position: relative;
 }
 
-.choose_tap-into-the-burgeoning-bittensor-subnet-ecosystem-participate-in-a-vibrant-derivatives-market-fueling-innovation-and-growth-for-tensor-processing-unit2 {
+.choose_tap-into2 {
     color: #ffffff;
     text-align: left;
     font-family: 'IBM Plex Mono', arial;
@@ -1438,7 +1438,7 @@ body {
     width: 1000px;
     position: absolute;
 }
-.token__0-x-1258-d-60-b-224-c-0-c-5-cd-888-d-37-bbf-31-aa-5-fcfb-7-e-870 {
+.token__0-x {
     color: #ffffff;
     text-align: left;
     font-family: 'PP Neue Machina', arial;
@@ -2018,7 +2018,8 @@ body {
   height: 171px;
   position: relative;
   overflow: hidden;
-  top: 1700px
+  top: 1700px;
+  border-top: 1px solid #838383;
 }
 
 .footer_line {
