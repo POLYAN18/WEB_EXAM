@@ -1764,3 +1764,248 @@ body {
   position: relative;
   align-self: stretch;
 }
+
+.faq,
+.faq * {
+  box-sizing: border-box;
+}
+.faq {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: space-between;
+  position: relative;
+  top: 1600px;
+  left: 50px;
+  width: 1000px;
+}
+.faq_frame-219 {
+  display: flex;
+  flex-direction: column;
+  gap: 62px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 320px;
+  height: 336px;
+  position: relative;
+}
+.faq2 {
+  color: #ffffff;
+  text-align: left;
+  font-family: 'PP Neue Machina', arial;
+  font-size: 42px;
+  line-height: 120%;
+  font-weight: 700;
+  position: relative;
+}
+.faq_in-this-section {
+  color: #ffffff;
+  text-align: left;
+  font-family: 'IBM Plex Mono', arial;
+  font-size: 16px;
+  line-height: 140%;
+  font-weight: 400;
+  position: relative;
+  align-self: stretch;
+}
+.faq_write-to-us {
+  border-radius: 15px;
+  border-style: solid;
+  border-color: #ffffff;
+  border-width: 1px;
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+  overflow: hidden;
+}
+.faq_frame-188 {
+  display: flex;
+  flex-direction: row;
+  gap: 105px;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  position: relative;
+}
+.faq_write-to-us2 {
+  color: #ffffff;
+  text-align: left;
+  font-family: 'PP Neue Machina', arial;
+  font-size: 20px;
+  line-height: 140%;
+  font-weight: 400;
+  position: relative;
+}
+.faq_subtract {
+  flex-shrink: 0;
+  width: 32px;
+  height: 25px;
+  position: relative;
+  overflow: visible;
+}
+.faq_div {
+  display: flex;
+  flex-direction: column;
+  gap: 35px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 660px;
+  position: relative;
+}
+.faq_frame-284 {
+  display: flex;
+  flex-direction: column;
+  gap: 30px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+}
+.faq__6 {
+  border-radius: 15px;
+  border-style: solid;
+  border-color: #ffffff;
+  border-width: 1px;
+  padding: 20px 30px 20px 30px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+}
+.faq_frame-281 {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+}
+.faq_how-much-will-i-earn-by-staking-gpu {
+  color: #ffffff;
+  text-align: left;
+  font-family: 'PP Neue Machina', arial;
+  font-size: 20px;
+  line-height: 140%;
+  font-weight: 400;
+  position: relative;
+}
+.faq_group-281 {
+  flex-shrink: 0;
+  width: 24.97px;
+  height: 13.16px;
+  position: relative;
+  overflow: visible;
+}
+.faq_how-do-i-buy-gpu {
+  color: #ffffff;
+  text-align: left;
+  font-family: 'PP Neue Machina', arial;
+  font-size: 20px;
+  line-height: 140%;
+  font-weight: 400;
+  position: relative;
+}
+.faq_group-2812 {
+  flex-shrink: 0;
+  width: 24.97px;
+  height: 13.16px;
+  position: relative;
+  overflow: visible;
+}
+.faq__7 {
+  border-radius: 15px;
+  border-style: solid;
+  border-color: #ffffff;
+  border-width: 1px;
+  padding: 20px 30px 20px 30px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+}
+.faq_how-secure-is-a-gpu-node {
+  color: #ffffff;
+  text-align: left;
+  font-family: 'PP Neue Machina', arial;
+  font-size: 20px;
+  line-height: 140%;
+  font-weight: 400;
+  position: relative;
+}
+.faq_group-2813 {
+  flex-shrink: 0;
+  width: 24.97px;
+  height: 13.16px;
+  position: relative;
+  overflow: visible;
+}
+.faq__8 {
+  border-radius: 15px;
+  border-style: solid;
+  border-color: #ffffff;
+  border-width: 1px;
+  padding: 20px 30px 20px 30px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+}
+.faq_how-can-i-access-my-node {
+  color: #ffffff;
+  text-align: left;
+  font-family: 'PP Neue Machina', arial;
+  font-size: 20px;
+  line-height: 140%;
+  font-weight: 400;
+  position: relative;
+}
+.faq_group-2814 {
+  flex-shrink: 0;
+  width: 24.97px;
+  height: 13.16px;
+  position: relative;
+  overflow: visible;
+}
+.faq__9 {
+  border-radius: 15px;
+  border-style: solid;
+  border-color: #ffffff;
+  border-width: 1px;
+  padding: 20px 30px 20px 30px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+}
+.faq_group-2815 {
+  flex-shrink: 0;
+  width: 24.97px;
+  height: 13.16px;
+  position: relative;
+  overflow: visible;
+}
