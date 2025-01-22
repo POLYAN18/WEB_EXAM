@@ -1190,7 +1190,7 @@ body {
   position: relative;
   transform: rotate(-5deg) scale(1, 1);
 }
-.important-information-for-all-customers-important-information-for-all-customers-important-information-for-all-customers-important-informaticustomers {
+.important-information {
     color: #17161e;
     text-align: left;
     font-family: 'PP Neue Machina', arial;
@@ -1474,4 +1474,154 @@ body {
   height: 26px;
   position: relative;
   overflow: visible;
+}
+
+
+
+.important_div2,
+.important_div2 * {
+    width: 1800px;
+    height: 20px;
+}
+
+.important_div2 {
+    background: #e3fe0f;
+    padding: 20px;
+    display: flex;
+    flex-direction: row;
+    top: 1150px;
+    left: -170px;
+    gap: 10px;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+    transform: rotate(3deg) scale(1, 1);
+}
+
+.start,
+.start * {
+    box-sizing: border-box;
+}
+
+.start {
+    position: relative;
+    top: 1200px;
+   left: 50px;
+
+}
+
+.start2 {
+    color: #ffffff;
+    text-align: left;
+    font-family: 'PP Neue Machina', arial;
+    font-size: 42px;
+    line-height: 120%;
+    font-weight: 700;
+    position: absolute;
+    left: calc(50% - 479.36px);
+    top: 0px;
+}
+
+.start_img {
+    width: 393.72px;
+    height: 393.72px;
+    position: static;
+}
+
+.start_div {
+    width: 300px;
+    height: 256.8px;
+    position: static;
+}
+
+.start_1-1 {
+    width: 300px;
+    height: 256.8px;
+    position: absolute;
+    left: 565px;
+    top: 279.13px;
+    transform-origin: 0 0;
+    transform: rotate(-45deg) scale(1, 1);
+    object-fit: cover;
+}
+
+.start_frame-285 {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    align-items: flex-start;
+    justify-content: flex-start;
+    width: 490px;
+    position: absolute;
+    left: 1px;
+    top: 90px;
+}
+
+.start_it-is-pleasant {
+    color: #ffffff;
+    text-align: left;
+    font-family: 'IBM Plex Mono', arial;
+    font-size: 16px;
+    line-height: 140%;
+    font-weight: 400;
+    position: relative;
+    align-self: stretch;
+}
+
+
+.start_div2 {
+    background: #e3fe0f;
+    border-radius: 15px;
+    padding: 30px;
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+    align-items: center;
+    justify-content: center;
+    width: 320px;
+    height: 80px;
+    position: absolute;
+    left: 0px;
+    top: 458px;
+}
+
+.start_get-started {
+    color: #17161e;
+    text-align: left;
+    font-family: 'PP Neue Machina', arial;
+    font-size: 20px;
+    line-height: 140%;
+    font-weight: 400;
+    position: relative;
+}
+.dont_div,
+.dont_div * {
+    box-sizing: border-box;
+    top: 1400px;
+    left: 50px;
+}
+
+.dont_div {
+    text-align: left;
+    font-family: 'PP Neue Machina', arial;
+    font-size: 42px;
+    line-height: 120%;
+    font-weight: 400;
+    position: relative;
+}
+
+.dont_div-span3 {
+    color: #e3fe0f;
+    font-family: 'PP Neue Machina', arial;
+    font-size: 42px;
+    line-height: 120%;
+    font-weight: 600;
+}
+
+.dont_div-span4 {
+    color: #ffffff;
+    font-family: 'PP Neue Machina', arial;
+    font-size: 42px;
+    line-height: 120%;
+    font-weight: 600;
 }
