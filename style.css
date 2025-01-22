@@ -3,6 +3,7 @@ body {
     justify-content:center;
     background-color: #17161e;
     position: relative;
+
     
 
 }
@@ -127,7 +128,7 @@ body {
 .menu {
     color: rgba(255, 255, 255, 0.7);
     text-align: left;
-    font-family: "IbmPlexMono-Regular", sans-serif ;
+    font-family: 'IBM Plex Mono', arial;
     font-size: 14px;
     line-height: 140%;
     font-weight: 400;
@@ -166,7 +167,7 @@ body {
 
 .d-app2 {
     color: #e3fe0f;
-    font-family: "NeueMachina-Regular", sans-serif ;
+    font-family: 'PP Neue Machina', arial;
     font-size: 20px;
     line-height: 140%;
     font-weight: 400;
@@ -215,7 +216,7 @@ body {
 .top_15-7502 {
     color: #ffffff;
     text-align: left;
-    font-family: "NeueMachina-Medium", sans-serif;
+    font-family: 'PP Neue Machina', arial;
     font-size: 24px;
     line-height: 120%;
     font-weight: 500;
@@ -227,7 +228,7 @@ body {
 .top_avg-monthly-revenue {
     color: #838383;
     text-align: left;
-    font-family: "IbmPlexMono-Regular", sans-serif;
+    font-family: 'IBM Plex Mono', arial;
     font-size: 16px;
     font-weight: 400;
     position: absolute;
@@ -245,7 +246,7 @@ body {
 .top_12 {
     color: #ffffff;
     text-align: left;
-    font-family: "NeueMachina-Medium", sans-serif ;
+    font-family: 'PP Neue Machina', arial;
     font-size: 24px;
     line-height: 120%;
     font-weight: 500;
@@ -257,7 +258,7 @@ body {
 .top_active-nodes {
     color: #838383;
     text-align: left;
-    font-family: "IbmPlexMono-Regular", sans-serif;
+    font-family: 'IBM Plex Mono', arial;
     font-size: 16px;
     font-weight: 400;
     position: absolute;
@@ -296,8 +297,8 @@ body {
 
 .top_decentralized-ai-ml-computing {
     text-align: left;
-    font-family: "NeueMachina-Bold", sans-serif ;
-    font-size: 52px;
+    font-family: 'PP Neue Machina', arial;
+    font-size:39px;
     line-height: 120%;
     font-weight: 700;
     position: absolute;
@@ -308,7 +309,7 @@ body {
 
 .top_decentralized-ai-ml-computing-span {
     color: #ffffff;
-    font-family: "NeueMachina-Bold", sans-serif ;
+    font-family: 'PP Neue Machina', arial;
     font-size: 52px;
     line-height: 120%;
     font-weight: 700;
@@ -316,7 +317,7 @@ body {
 
 .top_decentralized-ai-ml-computing-span2 {
     color: #e3fe0f;
-    font-family: "NeueMachina-Bold", sans-serif ;
+    font-family: 'PP Neue Machina', arial;
     font-size: 52px;
     line-height: 120%;
     font-weight: 700;
@@ -324,7 +325,7 @@ body {
 
 .top_decentralized-ai-ml-computing-span3 {
     color: #ffffff;
-    font-family: "NeueMachina-Bold", sans-serif ;
+    font-family: 'PP Neue Machina', arial;
     font-size: 52px;
     line-height: 120%;
     font-weight: 700;
@@ -351,7 +352,7 @@ body {
 .top_as-well-as-key-features-of-the-project-s-structure-they-were-declared-to-violate-universal-norms-of-morality {
     color: #ffffff;
     text-align: left;
-    font-family: "IbmPlexMono-Regular", sans-serif ;
+    font-family: 'IBM Plex Mono', arial;
     font-size: 16px;
     line-height: 140%;
     font-weight: 400;
@@ -383,7 +384,7 @@ body {
 .top_view-node {
     color: #17161e;
     text-align: left;
-    font-family: "NeueMachina-Regular", sans-serif ;
+    font-family: 'PP Neue Machina', arial;
     font-size: 20px;
     line-height: 140%;
     font-weight: 400;
@@ -423,7 +424,7 @@ body {
 .top_buy-gpu {
     color: #ffffff;
     text-align: left;
-    font-family: "NeueMachina-Regular", sans-serif ;
+    font-family: 'PP Neue Machina', arial;
     font-size: 20px;
     line-height: 140%;
     font-weight: 400;
@@ -483,7 +484,7 @@ body {
 .choose_why-choose-us {
     color: #ffffff;
     text-align: left;
-    font-family:"NeueMachina-Bold", sans-serif ;
+    font-family: 'PP Neue Machina', arial;
     font-size: 42px;
     line-height: 120%;
     font-weight: 700;
@@ -555,7 +556,7 @@ body {
 .choose_subnetix3 {
     color: #17161e;
     text-align: left;
-    font-family: "NeueMachina-Medium", sans-serif ;
+    font-family: 'PP Neue Machina', arial;
     font-size: 24px;
     line-height: 120%;
     font-weight: 500;
@@ -565,7 +566,7 @@ body {
 .choose_tap-into-the-burgeoning-bittensor-subnet-ecosystem-participate-in-a-vibrant-derivatives-market-fueling-innovation-and-growth-for-tensor-processing-unit {
     color: #17161e;
     text-align: left;
-    font-family: "IbmPlexMono-Regular", sans-serif;
+    font-family: 'IBM Plex Mono', arial;
     font-size: 16px;
     line-height: 140%;
     font-weight: 400;
@@ -612,7 +613,7 @@ body {
 .choose_space2 {
     color: #ffffff;
     text-align: left;
-    font-family: "NeueMachina-Medium", sans-serif ;
+    font-family: 'PP Neue Machina', arial;
     font-size: 24px;
     line-height: 120%;
     font-weight: 500;
@@ -622,7 +623,7 @@ body {
 .choose_access-the-processing-power-you-need-when-you-need-it-scale-projects-seamlessly-with-a-decentralized-marketplace-of-gp-us-tp-us-and-cutting-edge-lp-us {
     color: #ffffff;
     text-align: left;
-    font-family: "IbmPlexMono-Regular", sans-serif;
+    font-family: 'IBM Plex Mono', arial;
     font-size: 16px;
     line-height: 140%;
     font-weight: 400;
@@ -666,7 +667,7 @@ body {
 .choose_craft2 {
     color: #17161e;
     text-align: left;
-    font-family: "NeueMachina-Medium", sans-serif ;
+    font-family: 'PP Neue Machina', arial;
     font-size: 24px;
     line-height: 120%;
     font-weight: 500;
@@ -676,7 +677,7 @@ body {
 .choose_accelerate-development-and-deployment-with-our-intuitive-no-code-ai-application-building-platform-empowering-users-of-all-skill-levels {
     color: #17161e;
     text-align: left;
-    font-family: "IbmPlexMono-Regular", sans-serif;
+    font-family: 'PP Neue Machina', arial;
     font-size: 16px;
     line-height: 140%;
     font-weight: 400;
@@ -703,7 +704,7 @@ body {
 .choose_foundry {
     color: #ffffff;
     text-align: left;
-    font-family: "NeueMachina-Medium", sans-serif ;
+    font-family: 'PP Neue Machina', arial;
     font-size: 24px;
     line-height: 120%;
     font-weight: 500;
@@ -713,7 +714,7 @@ body {
 .choose_we-use-blockchain-technology-to-keep-your-data-payment-funds-and-usage-secure-it-adds-an-extra-layer-of-protection-to-your-information-is-safe-and-trustworthy {
     color: #ffffff;
     text-align: left;
-    font-family: "IbmPlexMono-Regular", sans-serif;
+    font-family: 'IBM Plex Mono', arial;
     font-size: 16px;
     line-height: 140%;
     font-weight: 400;
@@ -752,7 +753,7 @@ body {
 .choose_nodes {
     color: #17161e;
     text-align: left;
-    font-family: "NeueMachina-Medium", sans-serif ;
+    font-family: 'PP Neue Machina', arial;
     font-size: 24px;
     line-height: 120%;
     font-weight: 500;
@@ -762,7 +763,7 @@ body {
 .choose_access-the-processing-power-you-need-when-you-need-it-scale-projects-seamlessly-with-a-decentralized-marketplace-of-gp-us-tp-us-and-cutting-edge-lp-us2 {
     color: #17161e;
     text-align: left;
-    font-family: "IbmPlexMono-Regular", sans-serif;
+    font-family: 'IBM Plex Mono', arial;
     font-size: 16px;
     line-height: 140%;
     font-weight: 400;
@@ -793,7 +794,7 @@ body {
 .choose_gp-us {
     color: #ffffff;
     text-align: left;
-    font-family: "NeueMachina-Medium", sans-serif ;
+    font-family: 'PP Neue Machina', arial;
     font-size: 24px;
     line-height: 120%;
     font-weight: 500;
@@ -803,7 +804,7 @@ body {
 .choose_tap-into-the-burgeoning-bittensor-subnet-ecosystem-participate-in-a-vibrant-derivatives-market-fueling-innovation-and-growth-for-tensor-processing-unit2 {
     color: #ffffff;
     text-align: left;
-    font-family: "IbmPlexMono-Regular", sans-serif;
+    font-family: 'IBM Plex Mono', arial;
     font-size: 16px;
     line-height: 140%;
     font-weight: 400;
@@ -816,34 +817,36 @@ body {
   box-sizing: border-box;
 }
 .roadmap {
-  display: flex;
-  flex-direction: column;
-  gap: 60px;
-  align-items: flex-start;
-  justify-content: flex-start;
-  position: relative;
-  top: 100px;
+    font-family: 'IBM Plex Mono', arial;
+    display: inline-flex;
+    flex-direction: column;
+    gap: 80px;
+    align-items: flex-start;
+    justify-content: flex-start;
+    position: relative;
+    top: 100px;
+    left: 70px;
 }
 .roadmap2 {
-  color: #ffffff;
-  text-align: left;
-  font-family: "NeueMachina-Bold", sans-serif;
-  font-size: 42px;
-  line-height: 120%;
-  font-weight: 700;
-  position: relative;
+    color: #ffffff;
+    text-align: left;
+    font-family: 'PP Neue Machina', arial;
+    font-size: 42px;
+    line-height: 120%;
+    font-weight: 700;
+    position: relative;
 }
 .roadmap_frame-214 {
-  display: flex;
-  flex-direction: row;
-  row-gap: 100px;
-  align-items: flroadmapex-start;
-  justify-content: space-between;
-  flex-wrap: wrap;
-  align-content: flex-start;
-  align-self: stretch;
-  flex-shrink: 0;
-  position: relative;
+    display: flex;
+    flex-direction: row;
+    gap: 30px;
+    row-gap: 100px;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    align-content: flex-start;
+    align-self: stretch;
+    flex-shrink: 0;
+    position: relative;
 }
 .roadmap_card {
   display: flex;
@@ -870,13 +873,13 @@ body {
   position: relative;
 }
 .roadmap_01 {
-  color: #17161e;
-  text-align: left;
-  font-family: "NeueMachina-Bold", sans-serif;
-  font-size: 42px;
-  line-height: 120%;
-  font-weight: 700;
-  position: relative;
+    color: #17161e;
+    text-align: left;
+    font-family: 'PP Neue Machina', arial;
+    font-size: 42px;
+    line-height: 120%;
+    font-weight: 700;
+    position: relative;
 }
 .roadmap_list {
   display: flex;
@@ -906,14 +909,14 @@ body {
   overflow: visible;
 }
 .roadmap_launch-node-ai-website-dapp {
-  color: #ffffff;
-  text-align: left;
-  font-family: "IbmPlexMono-Regular", sans-serif;
-  font-size: 16px;
-  line-height: 140%;
-  font-weight: 400;
-  position: relative;
-  flex: 1;
+    color: #ffffff;
+    text-align: left;
+    font-family: 'IBM Plex Mono', arial;
+    font-size: 16px;
+    line-height: 140%;
+    font-weight: 400;
+    position: relative;
+    flex: 1;
 }
 .roadmap_frame-156 {
   display: flex;
@@ -927,14 +930,14 @@ body {
 }
 
 .roadmap_gpu-fair-launch {
-  color: #ffffff;
-  text-align: left;
-  font-family:"IbmPlexMono-Regular", sans-serif;
-  font-size: 16px;
-  line-height: 140%;
-  font-weight: 400;
-  position: relative;
-  flex: 1;
+    color: #ffffff;
+    text-align: left;
+    font-family: 'IBM Plex Mono', arial;
+    font-size: 16px;
+    line-height: 140%;
+    font-weight: 400;
+    position: relative;
+    flex: 1;
 }
 .roadmap_frame-157 {
   display: flex;
@@ -948,14 +951,14 @@ body {
 }
 
 .roadmap_stake-to-earn-rewards {
-  color: #ffffff;
-  text-align: left;
-  font-family:"IbmPlexMono-Regular", sans-serif;
-  font-size: 16px;
-  line-height: 140%;
-  font-weight: 400;
-  position: relative;
-  flex: 1;
+    color: #ffffff;
+    text-align: left;
+    font-family: 'IBM Plex Mono', arial;
+    font-size: 16px;
+    line-height: 140%;
+    font-weight: 400;
+    position: relative;
+    flex: 1;
 }
 .roadmap_frame-158 {
   display: flex;
@@ -969,14 +972,14 @@ body {
 }
 
 .roadmap_build-grow-community {
-  color: #ffffff;
-  text-align: left;
-  font-family: "IbmPlexMono-Regular", sans-serif;
-  font-size: 16px;
-  line-height: 140%;
-  font-weight: 400;
-  position: relative;
-  flex: 1;
+    color: #ffffff;
+    text-align: left;
+    font-family: 'IBM Plex Mono', arial;
+    font-size: 16px;
+    line-height: 140%;
+    font-weight: 400;
+    position: relative;
+    flex: 1;
 }
 .roadmap_frame-159 {
   display: flex;
@@ -990,14 +993,14 @@ body {
 }
 
 .roadmap_referral-program {
-  color: #ffffff;
-  text-align: left;
-  font-family: "IbmPlexMono-Regular", sans-serif;
-  font-size: 16px;
-  line-height: 140%;
-  font-weight: 400;
-  position: relative;
-  flex: 1;
+    color: #ffffff;
+    text-align: left;
+    font-family: 'IBM Plex Mono', arial;
+    font-size: 16px;
+    line-height: 140%;
+    font-weight: 400;
+    position: relative;
+    flex: 1;
 }
 .roadmap_number2 {
   background: #ffffff;
@@ -1014,13 +1017,13 @@ body {
   position: relative;
 }
 .roadmap_02 {
-  color: #17161e;
-  text-align: left;
-  font-family:"NeueMachina-Bold", sans-serif;
-  font-size: 42px;
-  line-height: 120%;
-  font-weight:700;
-  position: relative;
+    color: #17161e;
+    text-align: left;
+    font-family: 'PP Neue Machina', arial;
+    font-size: 42px;
+    line-height: 120%;
+    font-weight: 700;
+    position: relative;
 }
 
 .roadmap_number3 {
@@ -1039,68 +1042,68 @@ body {
   box-shadow: 0px 4px 15px 0px rgba(227, 254, 15, 0.25);
 }
 .roadmap_03 {
-  color: #17161e;
-  text-align: left;
-  font-family: "NeueMachina-Bold", sans-serif;
-  font-size: 42px;
-  line-height: 120%;
-  font-weight: 700;
-  position: relative;
+    color: #17161e;
+    text-align: left;
+    font-family: 'PP Neue Machina', arial;
+    font-size: 42px;
+    line-height: 120%;
+    font-weight: 700;
+    position: relative;
 }
 
 .roadmap_launch-node-ai-website-dapp2 {
-  color: #e3fe0f;
-  text-align: left;
-  font-family:"IbmPlexMono-Regular", sans-serif;
-  font-size: 16px;
-  line-height: 140%;
-  font-weight: 400;
-  position: relative;
-  flex: 1;
+    color: #e3fe0f;
+    text-align: left;
+    font-family: 'IBM Plex Mono', arial;
+    font-size: 16px;
+    line-height: 140%;
+    font-weight: 400;
+    position: relative;
+    flex: 1;
 }
 
 .roadmap_gpu-fair-launch2 {
-  color: #e3fe0f;
-  text-align: left;
-  font-family: "IbmPlexMono-Regular", sans-serif;
-  font-size: 16px;
-  line-height: 140%;
-  font-weight: 400;
-  position: relative;
-  flex: 1;
+    color: #e3fe0f;
+    text-align: left;
+    font-family: 'IBM Plex Mono', arial;
+    font-size: 16px;
+    line-height: 140%;
+    font-weight: 400;
+    position: relative;
+    flex: 1;
 }
 
 .roadmap_stake-to-earn-rewards2 {
-  color: #e3fe0f;
-  text-align: left;
-  font-family: "IbmPlexMono-Regular", sans-serif;
-  font-size: 16px;
-  line-height:140%;
-  font-weight: 400;
-  position: relative;
-  flex: 1;
+    color: #e3fe0f;
+    text-align: left;
+    font-family: 'IBM Plex Mono', arial;
+    font-size: 16px;
+    line-height: 140%;
+    font-weight: 400;
+    position: relative;
+    flex: 1;
 }
 
 .roadmap_build-grow-community2 {
-  color: #e3fe0f;
-  text-align: left;
-  font-family: "IbmPlexMono-Regular", sans-serif;
-  font-size: 16px;
-  line-height: 140%;
-  font-weight: 400;
-  position: relative;
-  flex: 1;
+    color: #e3fe0f;
+    text-align: left;
+    font-family: 'IBM Plex Mono', arial;
+    font-size: 16px;
+    line-height: 140%;
+    font-weight: 400;
+    position: relative;
+    flex: 1;
 }
 
 .roadmap_referral-program2 {
-  color: #e3fe0f;
-  text-align: left;
-  font-family: "IbmPlexMono-Regular", sans-serif;
-  font-size: 16px;
-  line-height: 140%;
-  font-weight: v400;
-  position: relative;
-  flex: 1;
+    color: #e3fe0f;
+    text-align: left;
+    font-family: 'IBM Plex Mono', arial;
+    font-size: 16px;
+    line-height: 140%;
+    font-weight: 400;
+    position: relative;
+    flex: 1;
 }
 .roadmap_number4 {
   background: #17161e;
@@ -1120,47 +1123,47 @@ body {
   position: relative;
 }
 .roadmap_04 {
-  color: #838383;
-  text-align: left;
-  font-family:"NeueMachina-Bold",  sans-serif;
-  font-size: 42px;
-  line-height: 120%;
-  font-weight: 700;
-  position: relative;
+    color: #838383;
+    text-align: left;
+    font-family: 'PP Neue Machina', arial;
+    font-size: 42px;
+    line-height: 120%;
+    font-weight: 700;
+    position: relative;
 }
 
 
 .roadmap_stake-to-earn-rewards3 {
-  color: #838383;
-  text-align: left;
-  font-family: "IbmPlexMono-Regular", sans-serif;
-  font-size: 16px;
-  line-height: 140%;
-  font-weight: 400;
-  position: relative;
-  flex: 1;
+    color: #838383;
+    text-align: left;
+    font-family: 'IBM Plex Mono', arial;
+    font-size: 16px;
+    line-height: 140%;
+    font-weight: 400;
+    position: relative;
+    flex: 1;
 }
 
 .roadmap_build-grow-community3 {
-  color: #838383;
-  text-align: left;
-  font-family: "IbmPlexMono-Regular", sans-serif;
-  font-size: 16px;
-  line-height: 140%;
-  font-weight: 400;
-  position: relative;
-  flex: 1;
+    color: #838383;
+    text-align: left;
+    font-family: 'IBM Plex Mono', arial;
+    font-size: 16px;
+    line-height: 140%;
+    font-weight: 400;
+    position: relative;
+    flex: 1;
 }
 
 .roadmap_referral-program3 {
-  color: #838383;
-  text-align: left;
-  font-family: "IbmPlexMono-Regular", sans-serif;
-  font-size: 16px;
-  line-height: 140%;
-  font-weight: 400;
-  position: relative;
-  flex: 1;
+    color: #838383;
+    text-align: left;
+    font-family: 'IBM Plex Mono', arial;
+    font-size: 16px;
+    line-height: 140%;
+    font-weight: 400;
+    position: relative;
+    flex: 1;
 }
 
 
@@ -1188,13 +1191,13 @@ body {
   transform: rotate(-5deg) scale(1, 1);
 }
 .important-information-for-all-customers-important-information-for-all-customers-important-information-for-all-customers-important-informaticustomers {
-  color: #17161e;
-  text-align: left;
-  font-family: "NeueMachina-Regular", sans-serif;
-  font-size: 19px;
-  line-height: 140%;
-  font-weight: 400;
-  letter-spacing: 2px
+    color: #17161e;
+    text-align: left;
+    font-family: 'PP Neue Machina', arial;
+    font-size: 20px;
+    line-height: 140%;
+    font-weight: 400;
+ 
 }
 
 
@@ -1211,15 +1214,15 @@ body {
   gap: 30px;
 }
 .token_tokenomics2 {
-  color: #ffffff;
-  text-align: left;
-  font-family: "NeueMachina-Bold", sans-serif;
-  font-size: 42px;
-  line-height: 120%;
-  font-weight: 700;
-  position: absolute;
-  left: calc(50% - 500px);
-  top: 0px;
+    color: #ffffff;
+    text-align: left;
+    font-family: 'PP Neue Machina', arial;
+    font-size: 42px;
+    line-height: 120%;
+    font-weight: 700;
+    position: absolute;
+    left: calc(50% - 500px);
+    top: 0px;
 }
 .token_frame-218 {
   display: flex;
@@ -1266,13 +1269,13 @@ body {
   position: absolute;
 }
 .token_token2 {
-  color: #ffffff;
-  text-align: left;
-  font-family:"NeueMachina-Regular",sans-serif;
-  font-size: 20px;
-  line-height: 140%;
-  font-weight: 400;
-  position: relative;
+    color: #ffffff;
+    text-align: left;
+    font-family: 'PP Neue Machina', arial;
+    font-size: 20px;
+    line-height: 140%;
+    font-weight: 400;
+    position: relative;
 }
 .token_frame-282 {
   background: #e3fe0f;
@@ -1289,14 +1292,14 @@ body {
 
 }
 .token_vuetoken {
-  color: #17161e;
-  text-align: left;
-  font-family:"NeueMachina-Regular",sans-serif;
-  font-size: 20px;
-  line-height: 140%;
-  font-weight: 400;
-  position: relative;
-  width: 110px;
+    color: #17161e;
+    text-align: left;
+    font-family: 'PP Neue Machina', arial;
+    font-size: 20px;
+    line-height: 140%;
+    font-weight: 400;
+    position: relative;
+    width: 100px;
 }
 .token_total-supply {
   flex-shrink: 0;
@@ -1306,23 +1309,23 @@ body {
 }
 
 .token_total-supply2 {
-  color: #ffffff;
-  text-align: left;
-  font-family:"NeueMachina-Regular", sans-serif;
-  font-size: 20px;
-  line-height: 140%;
-  font-weight: 400;
-  position: relative;
+    color: #ffffff;
+    text-align: left;
+    font-family: 'PP Neue Machina', arial;
+    font-size: 20px;
+    line-height: 140%;
+    font-weight: 400;
+    position: relative;
 }
 
 .token__100-m {
-  color: #17161e;
-  text-align: left;
-  font-family:"NeueMachina-Regular",sans-serif;
-  font-size: 20px;
-  line-height: 140%;
-  font-weight: 400;
-  position: relative;
+    color: #17161e;
+    text-align: left;
+    font-family: 'PP Neue Machina', arial;
+    font-size: 20px;
+    line-height: 140%;
+    font-weight: 400;
+    position: relative;
 }
 .token_chain {
   flex-shrink: 0;
@@ -1332,23 +1335,23 @@ body {
 }
 
 .token_chain2 {
-  color: #ffffff;
-  text-align: left;
-  font-family:"NeueMachina-Regular",sans-serif;
-  font-size: 20px;
-  line-height: 140%;
-  font-weight: 400;
-  position: relative;
+    color: #ffffff;
+    text-align: left;
+    font-family: 'PP Neue Machina', arial;
+    font-size: 20px;
+    line-height: 140%;
+    font-weight: 400;
+    position: relative;
 }
 
 .token_trc-20 {
-  color: #17161e;
-  text-align: left;
-  font-family: "NeueMachina-Regular", sans-serif;
-  font-size: 20px;
-  line-height: 140%;
-  font-weight: 400;
-  position: relative;
+    color: #17161e;
+    text-align: left;
+    font-family: 'PP Neue Machina', arial;
+    font-size: 20px;
+    line-height: 140%;
+    font-weight: 400;
+    position: relative;
 }
 .token_symbol {
   flex-shrink: 0;
@@ -1357,22 +1360,22 @@ body {
   position: static;
 }
 .token_symbol2 {
-  color: #ffffff;
-  text-align: left;
-  font-family:"NeueMachina-Regular", sans-serif;
-  font-size: 20px;
-  line-height: 140%;
-  font-weight: 400;
-  position: relative;
+    color: #ffffff;
+    text-align: left;
+    font-family: 'PP Neue Machina', arial;
+    font-size: 20px;
+    line-height: 140%;
+    font-weight: 400;
+    position: relative;
 }
 .token_vuet {
-  color: #17161e;
-  text-align: left;
-  font-family:"NeueMachina-Regular",sans-serif;
-  font-size: 20px;
-  line-height: 140%;
-  font-weight: 400;
-  position: relative;
+    color: #17161e;
+    text-align: left;
+    font-family: 'PP Neue Machina', arial;
+    font-size: 20px;
+    line-height: 140%;
+    font-weight: 400;
+    position: relative;
 }
 .token_launch {
   flex-shrink: 0;
@@ -1381,22 +1384,22 @@ body {
   position: relative;
 }
 .token_launch2 {
-  color: #ffffff;
-  text-align: left;
-  font-family:"NeueMachina-Regular",sans-serif;
-  font-size: 20px;
-  line-height: 140%;
-  font-weight: 400;
-  position: relative;
+    color: #ffffff;
+    text-align: left;
+    font-family: 'PP Neue Machina', arial;
+    font-size: 20px;
+    line-height: 140%;
+    font-weight: 400;
+    position: relative;
 }
 .token_fair-launch {
-  color: #17161e;
-  text-align: left;
-  font-family: "NeueMachina-Regular",sans-serif;
-  font-size: 20px;
-  line-height: 140%;
-  font-weight: 400;
-  position: relative;
+    color: #17161e;
+    text-align: left;
+    font-family: 'PP Neue Machina', arial;
+    font-size: 20px;
+    line-height: 140%;
+    font-weight: 400;
+    position: relative;
 }
 .token_taxes {
   flex-shrink: 0;
@@ -1405,22 +1408,22 @@ body {
   position: relative;
 }
 .token_taxes2 {
-  color: #ffffff;
-  text-align: left;
-  font-family:"NeueMachina-Regular",sans-serif;
-  font-size: 20px;
-  line-height: 140%;
-  font-weight: 400;
-  position: relative;
+    color: #ffffff;
+    text-align: left;
+    font-family: 'PP Neue Machina', arial;
+    font-size: 20px;
+    line-height: 140%;
+    font-weight: 400;
+    position: relative;
 }
 .token__5-5 {
-  color: #17161e;
-  text-align: left;
-  font-family:"NeueMachina-Regular",sans-serif;
-  font-size: 20px;
-  line-height: 140%;
-  font-weight: 400;
-  position: relative;
+    color: #17161e;
+    text-align: left;
+    font-family: 'PP Neue Machina', arial;
+    font-size: 20px;
+    line-height: 140%;
+    font-weight: 400;
+    position: relative;
 }
 .token_taxes3 {
   flex-shrink: 0;
@@ -1443,13 +1446,13 @@ body {
     position: absolute;
 }
 .token__0-x-1258-d-60-b-224-c-0-c-5-cd-888-d-37-bbf-31-aa-5-fcfb-7-e-870 {
-  color: #ffffff;
-  text-align: left;
-  font-family: "NeueMachina-Regular", sans-serif;
-  font-size: 20px;
-  line-height: 140%;
-  font-weight: 400;
-  position: relative;
+    color: #ffffff;
+    text-align: left;
+    font-family: 'PP Neue Machina', arial;
+    font-size: 20px;
+    line-height: 140%;
+    font-weight: 400;
+    position: relative;
 }
 .token_frame-2824 {
   background: #e3fe0f;
