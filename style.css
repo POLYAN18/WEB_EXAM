@@ -1,857 +1,816 @@
 body {
-    display: flex;
-    justify-content:center;
-    background-color: #17161e;
-    position: relative;
+  display: flex;
+  justify-content: center;
+  background-color: #17161e;
+  position: relative;
 }
 
-.fon,
-.fon * {
-  box-sizing: border-box;
-}
 .fon {
   position: absolute;
   top: -600px;
-  left: -800px;  
+  left: -800px;
 }
-
-
 
 ._1200 {
-    height: 6000px;
-    width: 1200px;
-    position: relative;
-    overflow: hidden;
-}
-
-.header,
-.header * {
-    box-sizing: border-box;
+  height: 6000px;
+  width: 1200px;
+  position: relative;
+  overflow: hidden;
 }
 
 .header {
-    display: flex;
-    flex-direction: row;
-    gap: 325px;
-    align-items: flex-start;
-    justify-content: flex-start;
-    position: relative;
-    left: 100px;
+  display: flex;
+  flex-direction: row;
+  gap: 325px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  position: relative;
+  left: 100px;
 }
 
 .div {
-    border-radius: 0px;
-    flex-shrink: 0;
-    width: 530px;
-    height: 45px;
-    position: relative;
-    overflow: visible;
+  width: 530px;
+  height: 45px;
+  position: relative;
+  overflow: visible;
 }
 
 .div2 {
-    display: flex;
-    flex-direction: row;
-    gap: 45px;
-    align-items: center;
-    justify-content: flex-start;
-    flex-shrink: 0;
-    position: absolute;
-    left: 20px;
-    top: 12px;
+  display: flex;
+  flex-direction: row;
+  gap: 45px;
+  align-items: center;
+  justify-content: flex-start;
+  position: absolute;
+  left: 20px;
+  top: 12px;
 }
 
 .div3 {
-    flex-shrink: 0;
-    width: 126px;
-    height: 20px;
-    position: relative;
+  width: 126px;
+  height: 20px;
+  position: relative;
 }
 
 .hexa-core {
-    width: 80.02%;
-    height: 75%;
-    position: absolute;
-    right: 0%;
-    left: 19.98%;
-    bottom: 12.32%;
-    top: 12.68%;
-    overflow: visible;
+  width: 80.02%;
+  height: 75%;
+  position: absolute;
+  right: 0%;
+  left: 19.98%;
+  bottom: 12.32%;
+  top: 12.68%;
+  overflow: visible;
 }
 
 .union {
-    width: 13.34%;
-    height: 100%;
-    position: absolute;
-    right: 86.66%;
-    left: 0%;
-    bottom: 0%;
-    top: 0%;
-    overflow: visible;
+  width: 13.34%;
+  height: 100%;
+  position: absolute;
+  right: 86.66%;
+  left: 0%;
+  bottom: 0%;
+  top: 0%;
+  overflow: visible;
 }
 
 .div4 {
-    display: flex;
-    flex-direction: row;
-    gap: 35px;
-    align-items: flex-start;
-    justify-content: flex-start;
-    flex-shrink: 0;
-    position: relative;
+  display: flex;
+  flex-direction: row;
+  gap: 35px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  position: relative;
 }
 
 .frame-190 {
-    display: flex;
-    flex-direction: row;
-    gap: 8px;
-    align-items: flex-start;
-    justify-content: flex-start;
-    flex-shrink: 0;
-    position: relative;
+  display: flex;
+  flex-direction: row;
+  gap: 8px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  position: relative;
 }
 
 .frame-228 {
-    display: flex;
-    flex-direction: row;
-    gap: 10px;
-    align-items: center;
-    justify-content: center;
-    flex-shrink: 0;
-    position: relative;
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: center;
+  justify-content: center;
+  position: relative;
 }
 
 .menu {
-    color: rgba(255, 255, 255, 0.7);
-    text-align: left;
-    font-family: 'IBM Plex Mono', arial;
-    font-size: 14px;
-    line-height: 140%;
-    font-weight: 400;
-    position: relative;
+  color: rgba(255, 255, 255, 0.7);
+  text-align: left;
+  font-family: 'IBM Plex Mono', arial;
+  font-size: 14px;
+  line-height: 140%;
+  font-weight: 400;
+  position: relative;
 }
 
 .vector-67 {
-    flex-shrink: 0;
-    width: 10px;
-    height: 5px;
-    position: relative;
-    overflow: visible;
+  width: 10px;
+  height: 5px;
+  position: relative;
+  overflow: visible;
 }
 
-
 .d-app {
-    flex-shrink: 0;
-    width: 145px;
-    height: 45px;
-    position: relative;
+  width: 145px;
+  height: 45px;
+  position: relative;
 }
 
 .rectangle-1 {
-    border-radius: 10px;
-    border-style: solid;
-    border-color: #e3fe0f;
-    border-width: 1px;
-    width: 100%;
-    height: 100%;
-    position: absolute;
-    right: 0%;
-    left: 0%;
-    bottom: 0%;
-    top: 0%;
+  border-radius: 10px;
+  border-style: solid;
+  border-color: #e3fe0f;
+  border-width: 1px;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  right: 0%;
+  left: 0%;
+  bottom: 0%;
+  top: 0%;
 }
 
 .d-app2 {
-    color: #e3fe0f;
-    font-family: 'PP Neue Machina', arial;
-    font-size: 20px;
-    line-height: 140%;
-    font-weight: 400;
-    position: absolute;
-    left: 35%;
-    bottom: 32.22%;
-    top: 20.67%;
-    height: 31.11%;
+  color: #e3fe0f;
+  font-family: 'PP Neue Machina', arial;
+  font-size: 20px;
+  line-height: 140%;
+  font-weight: 400;
+  position: absolute;
+  left: 35%;
+  bottom: 32.22%;
+  top: 20.67%;
+  height: 31.11%;
 }
 
 .top,
 .top * {
-    box-sizing: border-box;
+  box-sizing: border-box;
 }
 
 .top {
-    position: relative;
-    top: 100px;
-    left: 100px;
+  position: relative;
+  top: 100px;
+  left: 100px;
 }
 
 .top_div2 {
-    width: 560px;
-    height: 440px;
-    position: static;
+  width: 560px;
+  height: 440px;
+  position: static;
 }
 
 .top_div3 {
-    display: flex;
-    flex-direction: row;
-    gap: 50px;
-    align-items: flex-start;
-    justify-content: flex-start;
-    position: absolute;
-    left: 0px;
-    top: 397px;
+  display: flex;
+  flex-direction: row;
+  gap: 50px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  position: absolute;
+  left: 0px;
+  top: 397px;
 }
 
 .top_15-750 {
-    flex-shrink: 0;
-    width: 183px;
-    height: 43px;
-    position: static;
+  width: 183px;
+  height: 43px;
+  position: static;
 }
 
 .top_15-7502 {
-    color: #ffffff;
-    text-align: left;
-    font-family: 'PP Neue Machina', arial;
-    font-size: 24px;
-    line-height: 120%;
-    font-weight: 500;
-    position: absolute;
-    left: 0px;
-    top: 0px;
+  color: #ffffff;
+  text-align: left;
+  font-family: 'PP Neue Machina', arial;
+  font-size: 24px;
+  line-height: 120%;
+  font-weight: 500;
+  position: absolute;
+  left: 0px;
+  top: 0px;
 }
 
 .top_avg-monthly-revenue {
-    color: #838383;
-    text-align: left;
-    font-family: 'IBM Plex Mono', arial;
-    font-size: 16px;
-    font-weight: 400;
-    position: absolute;
-    left: 0px;
-    top: 32px;
+  color: #838383;
+  text-align: left;
+  font-family: 'IBM Plex Mono', arial;
+  font-size: 16px;
+  font-weight: 400;
+  position: absolute;
+  left: 0px;
+  top: 32px;
 }
 
 .top_1 {
-    flex-shrink: 0;
-    width: 116px;
-    height: 43px;
-    position: static;
+  width: 116px;
+  height: 43px;
+  position: static;
 }
 
 .top_12 {
-    color: #ffffff;
-    text-align: left;
-    font-family: 'PP Neue Machina', arial;
-    font-size: 24px;
-    line-height: 120%;
-    font-weight: 500;
-    position: absolute;
-    left: 233px;
-    top: 0px;
+  color: #ffffff;
+  text-align: left;
+  font-family: 'PP Neue Machina', arial;
+  font-size: 24px;
+  line-height: 120%;
+  font-weight: 500;
+  position: absolute;
+  left: 233px;
+  top: 0px;
 }
 
 .top_active-nodes {
-    color: #838383;
-    text-align: left;
-    font-family: 'IBM Plex Mono', arial;
-    font-size: 16px;
-    font-weight: 400;
-    position: absolute;
-    left: 233px;
-    top: 32px;
+  color: #838383;
+  text-align: left;
+  font-family: 'IBM Plex Mono', arial;
+  font-size: 16px;
+  font-weight: 400;
+  position: absolute;
+  left: 233px;
+  top: 32px;
 }
 
 .top_div4 {
-    display: flex;
-    flex-direction: column;
-    gap: 40px;
-    align-items: flex-start;
-    justify-content: flex-start;
-    position: absolute;
-    left: 0px;
-    top: 0px;
+  display: flex;
+  flex-direction: column;
+  gap: 40px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  position: absolute;
+  left: 0px;
+  top: 0px;
 }
 
 .top_div5 {
-    display: flex;
-    flex-direction: column;
-    gap: 25px;
-    align-items: flex-start;
-    justify-content: flex-start;
-    flex-shrink: 0;
-    width: 495px;
-    position: relative;
+  display: flex;
+  flex-direction: column;
+  gap: 25px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  width: 495px;
+  position: relative;
 }
 
 .top_div6 {
-    flex-shrink: 0;
-    width: 495px;
-    height: 157px;
-    position: static;
+  width: 495px;
+  height: 157px;
+  position: static;
 }
 
 .top_decentralized-ai-ml-computing {
-    text-align: left;
-    font-family: 'PP Neue Machina', arial;
-    font-size:39px;
-    line-height: 120%;
-    font-weight: 700;
-    position: absolute;
-    left: 0px;
-    top: 29px;
-    width: 495px;
+  text-align: left;
+  font-family: 'PP Neue Machina', arial;
+  font-size: 39px;
+  line-height: 120%;
+  font-weight: 700;
+  position: absolute;
+  left: 0px;
+  top: 29px;
+  width: 495px;
 }
 
 .top_decentralized-ai-ml-computing-span {
-    color: #ffffff;
-    font-family: 'PP Neue Machina', arial;
-    font-size: 52px;
-    line-height: 120%;
-    font-weight: 700;
+  color: #ffffff;
+  font-family: 'PP Neue Machina', arial;
+  font-size: 52px;
+  line-height: 120%;
+  font-weight: 700;
 }
 
 .top_decentralized-ai-ml-computing-span2 {
-    color: #e3fe0f;
-    font-family: 'PP Neue Machina', arial;
-    font-size: 52px;
-    line-height: 120%;
-    font-weight: 700;
+  color: #e3fe0f;
+  font-family: 'PP Neue Machina', arial;
+  font-size: 52px;
+  line-height: 120%;
+  font-weight: 700;
 }
 
 .top_decentralized-ai-ml-computing-span3 {
-    color: #ffffff;
-    font-family: 'PP Neue Machina', arial;
-    font-size: 52px;
-    line-height: 120%;
-    font-weight: 700;
+  color: #ffffff;
+  font-family: 'PP Neue Machina', arial;
+  font-size: 52px;
+  line-height: 120%;
+  font-weight: 700;
 }
 
 .top_div7 {
-    width: 170px;
-    height: 10px;
-    position: absolute;
-    left: 0px;
-    top: 147px;
-    overflow: visible;
+  width: 170px;
+  height: 10px;
+  position: absolute;
+  left: 0px;
+  top: 147px;
+  overflow: visible;
 }
 
 .top_div8 {
-    width: 91.48px;
-    height: 90px;
-    position: absolute;
-    left: 403.52px;
-    top: 0px;
-    overflow: visible;
+  width: 91.48px;
+  height: 90px;
+  position: absolute;
+  left: 403.52px;
+  top: 0px;
+  overflow: visible;
 }
 
 .top_as-well {
-    color: #ffffff;
-    text-align: left;
-    font-family: 'IBM Plex Mono', arial;
-    font-size: 16px;
-    line-height: 140%;
-    font-weight: 400;
-    position: relative;
-    width: 495px;
+  color: #ffffff;
+  text-align: left;
+  font-family: 'IBM Plex Mono', arial;
+  font-size: 16px;
+  line-height: 140%;
+  font-weight: 400;
+  position: relative;
+  width: 495px;
 }
 
 .top_div9 {
-    flex-shrink: 0;
-    width: 560px;
-    height: 70px;
-    position: static;
+  width: 560px;
+  height: 70px;
+  position: static;
 }
 
 .top_div10 {
-    background: #e3fe0f;
-    border-radius: 15px;
-    padding: 26px 30px 26px 30px;
-    display: flex;
-    flex-direction: row;
-    align-items: center;
-    justify-content: space-between;
-    width: 270px;
-    position: absolute;
-    left: 0px;
-    top: 277px;
+  background: #e3fe0f;
+  border-radius: 15px;
+  padding: 26px 30px 26px 30px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  width: 270px;
+  position: absolute;
+  left: 0px;
+  top: 277px;
 }
 
 .top_view-node {
-    color: #17161e;
-    text-align: left;
-    font-family: 'PP Neue Machina', arial;
-    font-size: 20px;
-    line-height: 140%;
-    font-weight: 400;
-    position: relative;
+  color: #17161e;
+  text-align: left;
+  font-family: 'PP Neue Machina', arial;
+  font-size: 20px;
+  line-height: 140%;
+  font-weight: 400;
+  position: relative;
 }
 
 .top_vector-62 {
-    flex-shrink: 0;
-    width: 15px;
-    height: 15px;
-    position: relative;
-    overflow: visible;
+  width: 15px;
+  height: 15px;
+  position: relative;
+  overflow: visible;
 }
 
 .top_div11 {
-    width: 270px;
-    height: 70px;
-    position: absolute;
-    left: 290px;
-    top: 277px;
+  width: 270px;
+  height: 70px;
+  position: absolute;
+  left: 290px;
+  top: 277px;
 }
 
 .top_rectangle-2 {
-    border-radius: 15px;
-    border-style: solid;
-    border-color: #838383;
-    border-width: 1px;
-    width: 100%;
-    height: 115%;
-    position: absolute;
-    right: 0%;
-    left: 0%;
-    bottom: 0%;
-    top: 0%;
+  border-radius: 15px;
+  border-style: solid;
+  border-color: #838383;
+  border-width: 1px;
+  width: 100%;
+  height: 115%;
+  position: absolute;
+  right: 0%;
+  left: 0%;
+  bottom: 0%;
+  top: 0%;
 }
 
 .top_buy-gpu {
-    color: #ffffff;
-    text-align: left;
-    font-family: 'PP Neue Machina', arial;
-    font-size: 20px;
-    line-height: 140%;
-    font-weight: 400;
-    position: absolute;
-    right: 51.85%;
-    left: 11.11%;
-    width: 37.04%;
-    bottom: 41.43%;
-    top: 38.57%;
-    height: 20%;
+  color: #ffffff;
+  text-align: left;
+  font-family: 'PP Neue Machina', arial;
+  font-size: 20px;
+  line-height: 140%;
+  font-weight: 400;
+  position: absolute;
+  right: 51.85%;
+  left: 11.11%;
+  width: 37.04%;
+  bottom: 41.43%;
+  top: 38.57%;
+  height: 20%;
 }
 
 .top_vector {
-    width: 4.81%;
-    height: 40%;
-    position: absolute;
-    right: 10.37%;
-    left: 84.81%;
-    bottom: 30%;
-    top: 30%;
-    overflow: visible;
+  width: 4.81%;
+  height: 40%;
+  position: absolute;
+  right: 10.37%;
+  left: 84.81%;
+  bottom: 30%;
+  top: 30%;
+  overflow: visible;
 }
 
 .top_div12 {
-    width: 410px;
-    height: 350px;
-    position: static;
+  width: 410px;
+  height: 350px;
+  position: static;
 }
 
 .top_1-1 {
-    width: 410px;
-    height: 350px;
-    position: absolute;
-    left: 589px;
-    top: 0px;
-    object-fit: cover;
+  width: 410px;
+  height: 350px;
+  position: absolute;
+  left: 589px;
+  top: 0px;
 }
-
-
-
 
 .choose_div,
 .choose_div * {
-    box-sizing: border-box;
+  box-sizing: border-box;
 }
 
 .choose_div {
-    display: flex;
-    flex-direction: column;
-    gap: 60px;
-    align-items: flex-start;
-    justify-content: flex-start;
-    position: relative;
-    right: -100px;
+  display: flex;
+  flex-direction: column;
+  gap: 60px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  position: relative;
+  right: -100px;
 }
 
 .choose_why-choose-us {
-    color: #ffffff;
-    text-align: left;
-    font-family: 'PP Neue Machina', arial;
-    font-size: 42px;
-    line-height: 120%;
-    font-weight: 700;
-    position: relative;
+  color: #ffffff;
+  text-align: left;
+  font-family: 'PP Neue Machina', arial;
+  font-size: 42px;
+  line-height: 120%;
+  font-weight: 700;
+  position: relative;
 }
 
 .choose_div2 {
-    display: flex;
-    flex-direction: column;
-    gap: 20px;
-    align-items: flex-start;
-    justify-content: flex-start;
-    flex-shrink: 0;
-    position: relative;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  position: relative;
 }
 
 .choose_div3 {
-    display: flex;
-    flex-direction: row;
-    gap: 20px;
-    align-items: flex-start;
-    justify-content: flex-start;
-    flex-shrink: 0;
-    min-height: 260px;
-    position: relative;
+  display: flex;
+  flex-direction: row;
+  gap: 20px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  min-height: 260px;
+  position: relative;
 }
 
 .choose_subnetix {
-    align-self: stretch;
-    flex-shrink: 0;
-    width: 320px;
-    position: static;
+  align-self: stretch;
+  width: 320px;
+  position: static;
 }
 
 .choose_subnetix2 {
-    background: #e3fe0f;
-    border-radius: 15px;
-    padding: 30px;
-    display: flex;
-    flex-direction: column;
-    gap: 20px;
-    align-items: flex-start;
-    justify-content: flex-start;
-    width: 320px;
-    height: 260px;
-    position: absolute;
-    left: 0px;
-    top: 0px;
+  background: #e3fe0f;
+  border-radius: 15px;
+  padding: 30px;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  width: 320px;
+  height: 260px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
 }
 
 .choose_title {
-    display: flex;
-    flex-direction: row;
-    gap: 32px;
-    align-items: center;
-    justify-content: flex-start;
-    flex-shrink: 0;
-    position: relative;
+  display: flex;
+  flex-direction: row;
+  gap: 32px;
+  align-items: center;
+  justify-content: flex-start;
+  position: relative;
 }
 
 .choose_div4 {
-    flex-shrink: 0;
-    width: 36px;
-    height: 30px;
-    position: relative;
-    overflow: visible;
+  width: 36px;
+  height: 30px;
+  position: relative;
+  overflow: visible;
 }
 
 .choose_subnetix3 {
-    color: #17161e;
-    text-align: left;
-    font-family: 'PP Neue Machina', arial;
-    font-size: 24px;
-    line-height: 120%;
-    font-weight: 500;
-    position: relative;
+  color: #17161e;
+  text-align: left;
+  font-family: 'PP Neue Machina', arial;
+  font-size: 24px;
+  line-height: 120%;
+  font-weight: 500;
+  position: relative;
 }
 
 .choose_tap-into {
-    color: #17161e;
-    text-align: left;
-    font-family: 'IBM Plex Mono', arial;
-    font-size: 16px;
-    line-height: 140%;
-    font-weight: 400;
-    position: relative;
-    align-self: stretch;
+  color: #17161e;
+  text-align: left;
+  font-family: 'IBM Plex Mono', arial;
+  font-size: 16px;
+  line-height: 140%;
+  font-weight: 400;
+  position: relative;
+  align-self: stretch;
 }
 
 .choose_space {
-    background: #17161e;
-    border-radius: 15px;
-    border-style: solid;
-    border-color: #ffffff;
-    border-width: 1px;
-    padding: 30px;
-    display: flex;
-    flex-direction: column;
-    gap: 20px;
-    align-items: flex-start;
-    justify-content: flex-start;
-    align-self: stretch;
-    flex-shrink: 0;
-    width: 320px;
-    position: relative;
+  background: #17161e;
+  border-radius: 15px;
+  border-style: solid;
+  border-color: #ffffff;
+  border-width: 1px;
+  padding: 30px;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  align-self: stretch;
+  width: 320px;
+  position: relative;
 }
 
 .choose_frame-258 {
-    flex-shrink: 0;
-    width: 32px;
-    height: 30px;
-    position: relative;
+  width: 32px;
+  height: 30px;
+  position: relative;
 }
 
 .choose_group-272 {
-    width: 86.67%;
-    height: 100%;
-    position: absolute;
-    right: 7.5%;
-    left: 5.83%;
-    bottom: 0%;
-    top: 0%;
-    overflow: visible;
+  width: 86.67%;
+  height: 100%;
+  position: absolute;
+  right: 7.5%;
+  left: 5.83%;
+  bottom: 0%;
+  top: 0%;
+  overflow: visible;
 }
 
 .choose_space2 {
-    color: #ffffff;
-    text-align: left;
-    font-family: 'PP Neue Machina', arial;
-    font-size: 24px;
-    line-height: 120%;
-    font-weight: 500;
-    position: relative;
+  color: #ffffff;
+  text-align: left;
+  font-family: 'PP Neue Machina', arial;
+  font-size: 24px;
+  line-height: 120%;
+  font-weight: 500;
+  position: relative;
 }
 
 .choose_access {
-    color: #ffffff;
-    text-align: left;
-    font-family: 'IBM Plex Mono', arial;
-    font-size: 16px;
-    line-height: 140%;
-    font-weight: 400;
-    position: relative;
-    align-self: stretch;
+  color: #ffffff;
+  text-align: left;
+  font-family: 'IBM Plex Mono', arial;
+  font-size: 16px;
+  line-height: 140%;
+  font-weight: 400;
+  position: relative;
+  align-self: stretch;
 }
 
 .choose_craft {
-    background: #e3fe0f;
-    border-radius: 15px;
-    padding: 30px;
-    display: flex;
-    flex-direction: column;
-    gap: 20px;
-    align-items: flex-start;
-    justify-content: flex-start;
-    align-self: stretch;
-    flex-shrink: 0;
-    width: 320px;
-    position: relative;
+  background: #e3fe0f;
+  border-radius: 15px;
+  padding: 30px;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  align-self: stretch;
+  width: 320px;
+  position: relative;
 }
 
 .choose_icon {
-    flex-shrink: 0;
-    width: 36px;
-    height: 30px;
-    position: relative;
+  width: 36px;
+  height: 30px;
+  position: relative;
 }
 
 .choose_group-259 {
-    width: 80%;
-    height: 100%;
-    position: absolute;
-    right: 10%;
-    left: 10%;
-    bottom: 0%;
-    top: 0%;
-    overflow: visible;
+  width: 80%;
+  height: 100%;
+  position: absolute;
+  right: 10%;
+  left: 10%;
+  bottom: 0%;
+  top: 0%;
+  overflow: visible;
 }
 
 .choose_craft2 {
-    color: #17161e;
-    text-align: left;
-    font-family: 'PP Neue Machina', arial;
-    font-size: 24px;
-    line-height: 120%;
-    font-weight: 500;
-    position: relative;
+  color: #17161e;
+  text-align: left;
+  font-family: 'PP Neue Machina', arial;
+  font-size: 24px;
+  line-height: 120%;
+  font-weight: 500;
+  position: relative;
 }
 
 .choose_accelerate {
-    color: #17161e;
-    text-align: left;
-    font-family: 'PP Neue Machina', arial;
-    font-size: 16px;
-    line-height: 140%;
-    font-weight: 400;
-    position: relative;
-    align-self: stretch;
+  color: #17161e;
+  text-align: left;
+  font-family: 'PP Neue Machina', arial;
+  font-size: 16px;
+  line-height: 140%;
+  font-weight: 400;
+  position: relative;
+  align-self: stretch;
 }
 
 .choose_icon2 {
-    flex-shrink: 0;
-    width: 36px;
-    height: 30px;
-    position: relative;
-    overflow: hidden;
+  width: 36px;
+  height: 30px;
+  position: relative;
+  overflow: hidden;
 }
 
 .choose_group-266 {
-    height: auto;
-    position: absolute;
-    left: 6.6px;
-    top: 0px;
-    overflow: visible;
+  height: auto;
+  position: absolute;
+  left: 6.6px;
+  top: 0px;
+  overflow: visible;
 }
 
 .choose_foundry {
-    color: #ffffff;
-    text-align: left;
-    font-family: 'PP Neue Machina', arial;
-    font-size: 24px;
-    line-height: 120%;
-    font-weight: 500;
-    position: relative;
+  color: #ffffff;
+  text-align: left;
+  font-family: 'PP Neue Machina', arial;
+  font-size: 24px;
+  line-height: 120%;
+  font-weight: 500;
+  position: relative;
 }
 
 .choose_we-use {
-    color: #ffffff;
-    text-align: left;
-    font-family: 'IBM Plex Mono', arial;
-    font-size: 16px;
-    line-height: 140%;
-    font-weight: 400;
-    position: relative;
-    align-self: stretch;
+  color: #ffffff;
+  text-align: left;
+  font-family: 'IBM Plex Mono', arial;
+  font-size: 16px;
+  line-height: 140%;
+  font-weight: 400;
+  position: relative;
+  align-self: stretch;
 }
 
 .choose_subnetix4 {
-    background: #e3fe0f;
-    border-radius: 15px;
-    padding: 30px;
-    display: flex;
-    flex-direction: column;
-    gap: 20px;
-    align-items: flex-start;
-    justify-content: flex-start;
-    width: 320px;
-    height: 260px;
-    position: absolute;
-    left: 340px;
-    top: 0px;
+  background: #e3fe0f;
+  border-radius: 15px;
+  padding: 30px;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  width: 320px;
+  height: 260px;
+  position: absolute;
+  left: 340px;
+  top: 0px;
 }
 
 .choose_group-268 {
-    width: 71.67%;
-    height: 100%;
-    position: absolute;
-    right: -56.67%;
-    left: 85%;
-    bottom: 0%;
-    top: 0%;
-    transform: translate(-25.8px, 0px);
-    overflow: visible;
+  width: 71.67%;
+  height: 100%;
+  position: absolute;
+  right: -56.67%;
+  left: 85%;
+  bottom: 0%;
+  top: 0%;
+  transform: translate(-25.8px, 0px);
+  overflow: visible;
 }
 
 .choose_nodes {
-    color: #17161e;
-    text-align: left;
-    font-family: 'PP Neue Machina', arial;
-    font-size: 24px;
-    line-height: 120%;
-    font-weight: 500;
-    position: relative;
+  color: #17161e;
+  text-align: left;
+  font-family: 'PP Neue Machina', arial;
+  font-size: 24px;
+  line-height: 120%;
+  font-weight: 500;
+  position: relative;
 }
 
 .choose_access-the {
-    color: #17161e;
-    text-align: left;
-    font-family: 'IBM Plex Mono', arial;
-    font-size: 16px;
-    line-height: 140%;
-    font-weight: 400;
-    position: relative;
-    align-self: stretch;
+  color: #17161e;
+  text-align: left;
+  font-family: 'IBM Plex Mono', arial;
+  font-size: 16px;
+  line-height: 140%;
+  font-weight: 400;
+  position: relative;
+  align-self: stretch;
 }
 
 .choose_icon3 {
-    flex-shrink: 0;
-    width: 35px;
-    height: 30px;
-    position: relative;
-    overflow: hidden;
+  width: 35px;
+  height: 30px;
+  position: relative;
+  overflow: hidden;
 }
 
 .choose_group-260 {
-    width: 92.79%;
-    height: 90%;
-    position: absolute;
-    right: -89.01%;
-    left: 96.23%;
-    bottom: 4%;
-    top: 6%;
-    transform: translate(-32.48px, 0px);
-    overflow: visible;
+  width: 92.79%;
+  height: 90%;
+  position: absolute;
+  right: -89.01%;
+  left: 96.23%;
+  bottom: 4%;
+  top: 6%;
+  transform: translate(-32.48px, 0px);
+  overflow: visible;
 }
 
 .choose_gp-us {
-    color: #ffffff;
-    text-align: left;
-    font-family: 'PP Neue Machina', arial;
-    font-size: 24px;
-    line-height: 120%;
-    font-weight: 500;
-    position: relative;
+  color: #ffffff;
+  text-align: left;
+  font-family: 'PP Neue Machina', arial;
+  font-size: 24px;
+  line-height: 120%;
+  font-weight: 500;
+  position: relative;
 }
 
 .choose_tap-into2 {
-    color: #ffffff;
-    text-align: left;
-    font-family: 'IBM Plex Mono', arial;
-    font-size: 16px;
-    line-height: 140%;
-    font-weight: 400;
-    position: relative;
-    align-self: stretch;
+  color: #ffffff;
+  text-align: left;
+  font-family: 'IBM Plex Mono', arial;
+  font-size: 16px;
+  line-height: 140%;
+  font-weight: 400;
+  position: relative;
+  align-self: stretch;
 }
 
 .roadmap,
 .roadmap * {
   box-sizing: border-box;
 }
+
 .roadmap {
-    font-family: 'IBM Plex Mono', arial;
-    display: inline-flex;
-    flex-direction: column;
-    gap: 80px;
-    align-items: flex-start;
-    justify-content: flex-start;
-    position: relative;
-    top: 100px;
-    left: 100px;
+  font-family: 'IBM Plex Mono', arial;
+  display: inline-flex;
+  flex-direction: column;
+  gap: 80px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  position: relative;
+  top: 100px;
+  left: 100px;
 }
+
 .roadmap2 {
-    color: #ffffff;
-    text-align: left;
-    font-family: 'PP Neue Machina', arial;
-    font-size: 42px;
-    line-height: 120%;
-    font-weight: 700;
-    position: relative;
+  color: #ffffff;
+  text-align: left;
+  font-family: 'PP Neue Machina', arial;
+  font-size: 42px;
+  line-height: 120%;
+  font-weight: 700;
+  position: relative;
 }
+
 .roadmap_frame-214 {
-    display: flex;
-    flex-direction: row;
-    gap: 30px;
-    row-gap: 100px;
-    justify-content: space-between;
-    flex-wrap: wrap;
-    align-content: flex-start;
-    align-self: stretch;
-    flex-shrink: 0;
-    position: relative;
+  display: flex;
+  flex-direction: row;
+  gap: 30px;
+  row-gap: 100px;
+  flex-wrap: wrap;
+  align-content: flex-start;
+  align-self: stretch;
+  position: relative;
 }
+
 .roadmap_card {
   display: flex;
   flex-direction: column;
   gap: 40px;
   align-items: flex-start;
   justify-content: flex-start;
-  flex-shrink: 0;
   width: 220px;
   position: relative;
 }
+
 .roadmap_number {
   background: #ffffff;
   border-radius: 100px;
@@ -861,20 +820,21 @@ body {
   gap: 10px;
   align-items: center;
   justify-content: center;
-  flex-shrink: 0;
   width: 100px;
   height: 100px;
   position: relative;
 }
+
 .roadmap_01 {
-    color: #17161e;
-    text-align: left;
-    font-family: 'PP Neue Machina', arial;
-    font-size: 42px;
-    line-height: 120%;
-    font-weight: 700;
-    position: relative;
+  color: #17161e;
+  text-align: left;
+  font-family: 'PP Neue Machina', arial;
+  font-size: 42px;
+  line-height: 120%;
+  font-weight: 700;
+  position: relative;
 }
+
 .roadmap_list {
   display: flex;
   flex-direction: column;
@@ -882,9 +842,9 @@ body {
   align-items: flex-start;
   justify-content: flex-start;
   align-self: stretch;
-  flex-shrink: 0;
   position: relative;
 }
+
 .roadmap_frame-155 {
   display: flex;
   flex-direction: row;
@@ -892,26 +852,27 @@ body {
   align-items: flex-start;
   justify-content: flex-start;
   align-self: stretch;
-  flex-shrink: 0;
   position: relative;
 }
+
 .roadmap_group-273 {
-  flex-shrink: 0;
   width: 20px;
   height: 10px;
   position: relative;
   overflow: visible;
 }
+
 .roadmap_launch-node-ai-website-dapp {
-    color: #ffffff;
-    text-align: left;
-    font-family: 'IBM Plex Mono', arial;
-    font-size: 16px;
-    line-height: 140%;
-    font-weight: 400;
-    position: relative;
-    flex: 1;
+  color: #ffffff;
+  text-align: left;
+  font-family: 'IBM Plex Mono', arial;
+  font-size: 16px;
+  line-height: 140%;
+  font-weight: 400;
+  position: relative;
+  flex: 1;
 }
+
 .roadmap_frame-156 {
   display: flex;
   flex-direction: row;
@@ -919,20 +880,20 @@ body {
   align-items: flex-start;
   justify-content: flex-start;
   align-self: stretch;
-  flex-shrink: 0;
   position: relative;
 }
 
 .roadmap_gpu-fair-launch {
-    color: #ffffff;
-    text-align: left;
-    font-family: 'IBM Plex Mono', arial;
-    font-size: 16px;
-    line-height: 140%;
-    font-weight: 400;
-    position: relative;
-    flex: 1;
+  color: #ffffff;
+  text-align: left;
+  font-family: 'IBM Plex Mono', arial;
+  font-size: 16px;
+  line-height: 140%;
+  font-weight: 400;
+  position: relative;
+  flex: 1;
 }
+
 .roadmap_frame-157 {
   display: flex;
   flex-direction: row;
@@ -940,20 +901,20 @@ body {
   align-items: flex-start;
   justify-content: flex-start;
   align-self: stretch;
-  flex-shrink: 0;
   position: relative;
 }
 
 .roadmap_stake-to-earn-rewards {
-    color: #ffffff;
-    text-align: left;
-    font-family: 'IBM Plex Mono', arial;
-    font-size: 16px;
-    line-height: 140%;
-    font-weight: 400;
-    position: relative;
-    flex: 1;
+  color: #ffffff;
+  text-align: left;
+  font-family: 'IBM Plex Mono', arial;
+  font-size: 16px;
+  line-height: 140%;
+  font-weight: 400;
+  position: relative;
+  flex: 1;
 }
+
 .roadmap_frame-158 {
   display: flex;
   flex-direction: row;
@@ -961,20 +922,20 @@ body {
   align-items: flex-start;
   justify-content: flex-start;
   align-self: stretch;
-  flex-shrink: 0;
   position: relative;
 }
 
 .roadmap_build-grow-community {
-    color: #ffffff;
-    text-align: left;
-    font-family: 'IBM Plex Mono', arial;
-    font-size: 16px;
-    line-height: 140%;
-    font-weight: 400;
-    position: relative;
-    flex: 1;
+  color: #ffffff;
+  text-align: left;
+  font-family: 'IBM Plex Mono', arial;
+  font-size: 16px;
+  line-height: 140%;
+  font-weight: 400;
+  position: relative;
+  flex: 1;
 }
+
 .roadmap_frame-159 {
   display: flex;
   flex-direction: row;
@@ -982,20 +943,20 @@ body {
   align-items: flex-start;
   justify-content: flex-start;
   align-self: stretch;
-  flex-shrink: 0;
   position: relative;
 }
 
 .roadmap_referral-program {
-    color: #ffffff;
-    text-align: left;
-    font-family: 'IBM Plex Mono', arial;
-    font-size: 16px;
-    line-height: 140%;
-    font-weight: 400;
-    position: relative;
-    flex: 1;
+  color: #ffffff;
+  text-align: left;
+  font-family: 'IBM Plex Mono', arial;
+  font-size: 16px;
+  line-height: 140%;
+  font-weight: 400;
+  position: relative;
+  flex: 1;
 }
+
 .roadmap_number2 {
   background: #ffffff;
   border-radius: 100px;
@@ -1005,23 +966,23 @@ body {
   gap: 10px;
   align-items: center;
   justify-content: center;
-  flex-shrink: 0;
   width: 100px;
   height: 100px;
   position: relative;
 }
+
 .roadmap_02 {
-    color: #17161e;
-    text-align: left;
-    font-family: 'PP Neue Machina', arial;
-    font-size: 42px;
-    line-height: 120%;
-    font-weight: 700;
-    position: relative;
+  color: #17161e;
+  text-align: left;
+  font-family: 'PP Neue Machina', arial;
+  font-size: 42px;
+  line-height: 120%;
+  font-weight: 700;
+  position: relative;
 }
 
 .roadmap_number3 {
-  background:#e3fe0f;
+  background: #e3fe0f;
   border-radius: 100px;
   padding: 30px 26px 30px 26px;
   display: flex;
@@ -1029,76 +990,77 @@ body {
   gap: 10px;
   align-items: center;
   justify-content: center;
-  flex-shrink: 0;
   width: 100px;
   height: 100px;
   position: relative;
   box-shadow: 0px 4px 15px 0px rgba(227, 254, 15, 0.25);
 }
+
 .roadmap_03 {
-    color: #17161e;
-    text-align: left;
-    font-family: 'PP Neue Machina', arial;
-    font-size: 42px;
-    line-height: 120%;
-    font-weight: 700;
-    position: relative;
+  color: #17161e;
+  text-align: left;
+  font-family: 'PP Neue Machina', arial;
+  font-size: 42px;
+  line-height: 120%;
+  font-weight: 700;
+  position: relative;
 }
 
 .roadmap_launch-node-ai-website-dapp2 {
-    color: #e3fe0f;
-    text-align: left;
-    font-family: 'IBM Plex Mono', arial;
-    font-size: 16px;
-    line-height: 140%;
-    font-weight: 400;
-    position: relative;
-    flex: 1;
+  color: #e3fe0f;
+  text-align: left;
+  font-family: 'IBM Plex Mono', arial;
+  font-size: 16px;
+  line-height: 140%;
+  font-weight: 400;
+  position: relative;
+  flex: 1;
 }
 
 .roadmap_gpu-fair-launch2 {
-    color: #e3fe0f;
-    text-align: left;
-    font-family: 'IBM Plex Mono', arial;
-    font-size: 16px;
-    line-height: 140%;
-    font-weight: 400;
-    position: relative;
-    flex: 1;
+  color: #e3fe0f;
+  text-align: left;
+  font-family: 'IBM Plex Mono', arial;
+  font-size: 16px;
+  line-height: 140%;
+  font-weight: 400;
+  position: relative;
+  flex: 1;
 }
 
 .roadmap_stake-to-earn-rewards2 {
-    color: #e3fe0f;
-    text-align: left;
-    font-family: 'IBM Plex Mono', arial;
-    font-size: 16px;
-    line-height: 140%;
-    font-weight: 400;
-    position: relative;
-    flex: 1;
+  color: #e3fe0f;
+  text-align: left;
+  font-family: 'IBM Plex Mono', arial;
+  font-size: 16px;
+  line-height: 140%;
+  font-weight: 400;
+  position: relative;
+  flex: 1;
 }
 
 .roadmap_build-grow-community2 {
-    color: #e3fe0f;
-    text-align: left;
-    font-family: 'IBM Plex Mono', arial;
-    font-size: 16px;
-    line-height: 140%;
-    font-weight: 400;
-    position: relative;
-    flex: 1;
+  color: #e3fe0f;
+  text-align: left;
+  font-family: 'IBM Plex Mono', arial;
+  font-size: 16px;
+  line-height: 140%;
+  font-weight: 400;
+  position: relative;
+  flex: 1;
 }
 
 .roadmap_referral-program2 {
-    color: #e3fe0f;
-    text-align: left;
-    font-family: 'IBM Plex Mono', arial;
-    font-size: 16px;
-    line-height: 140%;
-    font-weight: 400;
-    position: relative;
-    flex: 1;
+  color: #e3fe0f;
+  text-align: left;
+  font-family: 'IBM Plex Mono', arial;
+  font-size: 16px;
+  line-height: 140%;
+  font-weight: 400;
+  position: relative;
+  flex: 1;
 }
+
 .roadmap_number4 {
   background: #17161e;
   border-radius: 100px;
@@ -1111,65 +1073,59 @@ body {
   gap: 10px;
   align-items: center;
   justify-content: center;
-  flex-shrink: 0;
   width: 100px;
   height: 100px;
   position: relative;
 }
+
 .roadmap_04 {
-    color: #838383;
-    text-align: left;
-    font-family: 'PP Neue Machina', arial;
-    font-size: 42px;
-    line-height: 120%;
-    font-weight: 700;
-    position: relative;
+  color: #838383;
+  text-align: left;
+  font-family: 'PP Neue Machina', arial;
+  font-size: 42px;
+  line-height: 120%;
+  font-weight: 700;
+  position: relative;
 }
 
-
 .roadmap_stake-to-earn-rewards3 {
-    color: #838383;
-    text-align: left;
-    font-family: 'IBM Plex Mono', arial;
-    font-size: 16px;
-    line-height: 140%;
-    font-weight: 400;
-    position: relative;
-    flex: 1;
+  color: #838383;
+  text-align: left;
+  font-family: 'IBM Plex Mono', arial;
+  font-size: 16px;
+  line-height: 140%;
+  font-weight: 400;
+  position: relative;
+  flex: 1;
 }
 
 .roadmap_build-grow-community3 {
-    color: #838383;
-    text-align: left;
-    font-family: 'IBM Plex Mono', arial;
-    font-size: 16px;
-    line-height: 140%;
-    font-weight: 400;
-    position: relative;
-    flex: 1;
+  color: #838383;
+  text-align: left;
+  font-family: 'IBM Plex Mono', arial;
+  font-size: 16px;
+  line-height: 140%;
+  font-weight: 400;
+  position: relative;
+  flex: 1;
 }
 
 .roadmap_referral-program3 {
-    color: #838383;
-    text-align: left;
-    font-family: 'IBM Plex Mono', arial;
-    font-size: 16px;
-    line-height: 140%;
-    font-weight: 400;
-    position: relative;
-    flex: 1;
+  color: #838383;
+  text-align: left;
+  font-family: 'IBM Plex Mono', arial;
+  font-size: 16px;
+  line-height: 140%;
+  font-weight: 400;
+  position: relative;
+  flex: 1;
 }
-
-
-
-
 
 .important_div,
 .important_div * {
   width: 1800px;
   height: 20px;
 }
-
 
 .important_div {
   background: #e3fe0f;
@@ -1184,22 +1140,21 @@ body {
   position: relative;
   transform: rotate(-5deg) scale(1, 1);
 }
+
 .important-information {
-    color: #17161e;
-    text-align: left;
-    font-family: 'PP Neue Machina', arial;
-    font-size: 20px;
-    line-height: 140%;
-    font-weight: 400;
- 
+  color: #17161e;
+  text-align: left;
+  font-family: 'PP Neue Machina', arial;
+  font-size: 20px;
+  line-height: 140%;
+  font-weight: 400;
 }
-
-
 
 .token_tokenomics,
 .token_tokenomics * {
   box-sizing: border-box;
 }
+
 .token_tokenomics {
   position: relative;
   top: 500px;
@@ -1207,17 +1162,19 @@ body {
   display: flex;
   gap: 30px;
 }
+
 .token_tokenomics2 {
-    color: #ffffff;
-    text-align: left;
-    font-family: 'PP Neue Machina', arial;
-    font-size: 42px;
-    line-height: 120%;
-    font-weight: 700;
-    position: absolute;
-    left: calc(50% - 500px);
-    top: 0px;
+  color: #ffffff;
+  text-align: left;
+  font-family: 'PP Neue Machina', arial;
+  font-size: 42px;
+  line-height: 120%;
+  font-weight: 700;
+  position: absolute;
+  left: calc(50% - 500px);
+  top: 0px;
 }
+
 .token_frame-218 {
   display: flex;
   flex-direction: row;
@@ -1232,6 +1189,7 @@ body {
   left: 0px;
   top: 90px;
 }
+
 .token_list {
   display: flex;
   height: 300px;
@@ -1239,15 +1197,15 @@ body {
   gap: 30px;
   align-items: flex-start;
   justify-content: flex-start;
-  flex-shrink: 0;
   position: relative;
 }
+
 .token_token {
-  flex-shrink: 0;
   width: 490px;
   height: 74px;
   position: relative;
 }
+
 .token_frame-283 {
   border-radius: 15px;
   border-style: solid;
@@ -1262,15 +1220,17 @@ body {
   width: 490px;
   position: absolute;
 }
+
 .token_token2 {
-    color: #ffffff;
-    text-align: left;
-    font-family: 'PP Neue Machina', arial;
-    font-size: 20px;
-    line-height: 140%;
-    font-weight: 400;
-    position: relative;
+  color: #ffffff;
+  text-align: left;
+  font-family: 'PP Neue Machina', arial;
+  font-size: 20px;
+  line-height: 140%;
+  font-weight: 400;
+  position: relative;
 }
+
 .token_frame-282 {
   background: #e3fe0f;
   border-radius: 15px;
@@ -1283,171 +1243,180 @@ body {
   width: 236.79px;
   position: relative;
   left: 253.22px;
+}
 
-}
 .token_vuetoken {
-    color: #17161e;
-    text-align: left;
-    font-family: 'PP Neue Machina', arial;
-    font-size: 20px;
-    line-height: 140%;
-    font-weight: 400;
-    position: relative;
-    width: 100px;
+  color: #17161e;
+  text-align: left;
+  font-family: 'PP Neue Machina', arial;
+  font-size: 20px;
+  line-height: 140%;
+  font-weight: 400;
+  position: relative;
+  width: 100px;
 }
+
 .token_total-supply {
-  flex-shrink: 0;
   width: 490px;
   height: 74px;
   position: relative;
 }
 
 .token_total-supply2 {
-    color: #ffffff;
-    text-align: left;
-    font-family: 'PP Neue Machina', arial;
-    font-size: 20px;
-    line-height: 140%;
-    font-weight: 400;
-    position: relative;
+  color: #ffffff;
+  text-align: left;
+  font-family: 'PP Neue Machina', arial;
+  font-size: 20px;
+  line-height: 140%;
+  font-weight: 400;
+  position: relative;
 }
 
 .token__100-m {
-    color: #17161e;
-    text-align: left;
-    font-family: 'PP Neue Machina', arial;
-    font-size: 20px;
-    line-height: 140%;
-    font-weight: 400;
-    position: relative;
+  color: #17161e;
+  text-align: left;
+  font-family: 'PP Neue Machina', arial;
+  font-size: 20px;
+  line-height: 140%;
+  font-weight: 400;
+  position: relative;
 }
+
 .token_chain {
-  flex-shrink: 0;
   width: 490px;
   height: 74px;
   position: relative;
 }
 
 .token_chain2 {
-    color: #ffffff;
-    text-align: left;
-    font-family: 'PP Neue Machina', arial;
-    font-size: 20px;
-    line-height: 140%;
-    font-weight: 400;
-    position: relative;
+  color: #ffffff;
+  text-align: left;
+  font-family: 'PP Neue Machina', arial;
+  font-size: 20px;
+  line-height: 140%;
+  font-weight: 400;
+  position: relative;
 }
 
 .token_trc-20 {
-    color: #17161e;
-    text-align: left;
-    font-family: 'PP Neue Machina', arial;
-    font-size: 20px;
-    line-height: 140%;
-    font-weight: 400;
-    position: relative;
+  color: #17161e;
+  text-align: left;
+  font-family: 'PP Neue Machina', arial;
+  font-size: 20px;
+  line-height: 140%;
+  font-weight: 400;
+  position: relative;
 }
+
 .token_symbol {
-  flex-shrink: 0;
   width: 490px;
   height: 74px;
   position: static;
 }
+
 .token_symbol2 {
-    color: #ffffff;
-    text-align: left;
-    font-family: 'PP Neue Machina', arial;
-    font-size: 20px;
-    line-height: 140%;
-    font-weight: 400;
-    position: relative;
+  color: #ffffff;
+  text-align: left;
+  font-family: 'PP Neue Machina', arial;
+  font-size: 20px;
+  line-height: 140%;
+  font-weight: 400;
+  position: relative;
 }
+
 .token_vuet {
-    color: #17161e;
-    text-align: left;
-    font-family: 'PP Neue Machina', arial;
-    font-size: 20px;
-    line-height: 140%;
-    font-weight: 400;
-    position: relative;
+  color: #17161e;
+  text-align: left;
+  font-family: 'PP Neue Machina', arial;
+  font-size: 20px;
+  line-height: 140%;
+  font-weight: 400;
+  position: relative;
 }
+
 .token_launch {
-  flex-shrink: 0;
   width: 490px;
   height: 74px;
   position: relative;
 }
+
 .token_launch2 {
-    color: #ffffff;
-    text-align: left;
-    font-family: 'PP Neue Machina', arial;
-    font-size: 20px;
-    line-height: 140%;
-    font-weight: 400;
-    position: relative;
+  color: #ffffff;
+  text-align: left;
+  font-family: 'PP Neue Machina', arial;
+  font-size: 20px;
+  line-height: 140%;
+  font-weight: 400;
+  position: relative;
 }
+
 .token_fair-launch {
-    color: #17161e;
-    text-align: left;
-    font-family: 'PP Neue Machina', arial;
-    font-size: 20px;
-    line-height: 140%;
-    font-weight: 400;
-    position: relative;
+  color: #17161e;
+  text-align: left;
+  font-family: 'PP Neue Machina', arial;
+  font-size: 20px;
+  line-height: 140%;
+  font-weight: 400;
+  position: relative;
 }
+
 .token_taxes {
-  flex-shrink: 0;
   width: 490px;
   height: 74px;
   position: relative;
 }
+
 .token_taxes2 {
-    color: #ffffff;
-    text-align: left;
-    font-family: 'PP Neue Machina', arial;
-    font-size: 20px;
-    line-height: 140%;
-    font-weight: 400;
-    position: relative;
+  color: #ffffff;
+  text-align: left;
+  font-family: 'PP Neue Machina', arial;
+  font-size: 20px;
+  line-height: 140%;
+  font-weight: 400;
+  position: relative;
 }
+
 .token__5-5 {
-    color: #17161e;
-    text-align: left;
-    font-family: 'PP Neue Machina', arial;
-    font-size: 20px;
-    line-height: 140%;
-    font-weight: 400;
-    position: relative;
+  color: #17161e;
+  text-align: left;
+  font-family: 'PP Neue Machina', arial;
+  font-size: 20px;
+  line-height: 140%;
+  font-weight: 400;
+  position: relative;
 }
+
 .token_taxes3 {
-  flex-shrink: 0;
   width: 1000px;
   height: 74px;
   position: static;
 }
+
 .token_frame-2834 {
-    border-radius: 15px;
-    border-style: solid;
-    border-color: #ffffff;
-    border-width: 1px;
-    padding: 30px;
-    display: flex;
-    flex-direction: row;
-    gap: 10px;
-    align-items: center;
-    justify-content: flex-start;
-    width: 1000px;
-    position: absolute;
+  border-radius: 15px;
+  border-style: solid;
+  border-color: #ffffff;
+  border-width: 1px;
+  padding: 30px;
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: center;
+  justify-content: flex-start;
+  width: 1000px;
+  position: absolute;
 }
+
 .token__0-x {
-    color: #ffffff;
-    text-align: left;
-    font-family: 'PP Neue Machina', arial;
-    font-size: 20px;
-    line-height: 140%;
-    font-weight: 400;
-    position: relative;
+  color: #ffffff;
+  text-align: left;
+  font-family: 'PP Neue Machina', arial;
+  font-size: 20px;
+  line-height: 140%;
+  font-weight: 400;
+  position: relative;
 }
+
 .token_frame-2824 {
   background: #e3fe0f;
   border-radius: 15px;
@@ -1462,162 +1431,159 @@ body {
   position: absolute;
   right: 0px;
 }
+
 .token_vector {
-  flex-shrink: 0;
   width: 20px;
   height: 26px;
   position: relative;
   overflow: visible;
 }
 
-
-
 .important_div2,
 .important_div2 * {
-    width: 1800px;
-    height: 20px;
+  width: 1800px;
+  height: 20px;
 }
 
 .important_div2 {
-    background: #e3fe0f;
-    padding: 20px;
-    display: flex;
-    flex-direction: row;
-    top: 1150px;
-    left: -170px;
-    gap: 10px;
-    align-items: center;
-    justify-content: center;
-    position: relative;
-    transform: rotate(3deg) scale(1, 1);
+  background: #e3fe0f;
+  padding: 20px;
+  display: flex;
+  flex-direction: row;
+  top: 1150px;
+  left: -170px;
+  gap: 10px;
+  align-items: center;
+  justify-content: center;
+  position: relative;
+  transform: rotate(3deg) scale(1, 1);
 }
 
 .start,
 .start * {
-    box-sizing: border-box;
+  box-sizing: border-box;
 }
 
 .start {
-    position: relative;
-    top: 1200px;
-   left: 100px;
-
+  position: relative;
+  top: 1200px;
+  left: 100px;
 }
 
 .start2 {
-    color: #ffffff;
-    text-align: left;
-    font-family: 'PP Neue Machina', arial;
-    font-size: 42px;
-    line-height: 120%;
-    font-weight: 700;
-    position: absolute;
-    left: calc(50% - 479.36px);
-    top: 0px;
+  color: #ffffff;
+  text-align: left;
+  font-family: 'PP Neue Machina', arial;
+  font-size: 42px;
+  line-height: 120%;
+  font-weight: 700;
+  position: absolute;
+  left: calc(50% - 479.36px);
+  top: 0px;
 }
 
 .start_img {
-    width: 393.72px;
-    height: 393.72px;
-    position: static;
+  width: 393.72px;
+  height: 393.72px;
+  position: static;
 }
 
 .start_div {
-    width: 300px;
-    height: 256.8px;
-    position: static;
+  width: 300px;
+  height: 256.8px;
+  position: static;
 }
 
 .start_1-1 {
-    width: 300px;
-    height: 256.8px;
-    position: absolute;
-    left: 565px;
-    top: 279.13px;
-    transform-origin: 0 0;
-    transform: rotate(-45deg) scale(1, 1);
-    object-fit: cover;
+  width: 300px;
+  height: 256.8px;
+  position: absolute;
+  left: 565px;
+  top: 279.13px;
+  transform-origin: 0 0;
+  transform: rotate(-45deg) scale(1, 1);
+  object-fit: cover;
 }
 
 .start_frame-285 {
-    display: flex;
-    flex-direction: column;
-    gap: 20px;
-    align-items: flex-start;
-    justify-content: flex-start;
-    width: 490px;
-    position: absolute;
-    left: 1px;
-    top: 90px;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  width: 490px;
+  position: absolute;
+  left: 1px;
+  top: 90px;
 }
 
 .start_it-is-pleasant {
-    color: #ffffff;
-    text-align: left;
-    font-family: 'IBM Plex Mono', arial;
-    font-size: 16px;
-    line-height: 140%;
-    font-weight: 400;
-    position: relative;
-    align-self: stretch;
+  color: #ffffff;
+  text-align: left;
+  font-family: 'IBM Plex Mono', arial;
+  font-size: 16px;
+  line-height: 140%;
+  font-weight: 400;
+  position: relative;
+  align-self: stretch;
 }
 
-
 .start_div2 {
-    background: #e3fe0f;
-    border-radius: 15px;
-    padding: 30px;
-    display: flex;
-    flex-direction: row;
-    gap: 10px;
-    align-items: center;
-    justify-content: center;
-    width: 320px;
-    height: 80px;
-    position: absolute;
-    left: 0px;
-    top: 458px;
+  background: #e3fe0f;
+  border-radius: 15px;
+  padding: 30px;
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: center;
+  justify-content: center;
+  width: 320px;
+  height: 80px;
+  position: absolute;
+  left: 0px;
+  top: 458px;
 }
 
 .start_get-started {
-    color: #17161e;
-    text-align: left;
-    font-family: 'PP Neue Machina', arial;
-    font-size: 20px;
-    line-height: 140%;
-    font-weight: 400;
-    position: relative;
+  color: #17161e;
+  text-align: left;
+  font-family: 'PP Neue Machina', arial;
+  font-size: 20px;
+  line-height: 140%;
+  font-weight: 400;
+  position: relative;
 }
+
 .dont_div,
 .dont_div * {
-    box-sizing: border-box;
-    top: 1400px;
-    left: 100px;
+  box-sizing: border-box;
+  top: 1400px;
+  left: 100px;
 }
 
 .dont_div {
-    text-align: left;
-    font-family: 'PP Neue Machina', arial;
-    font-size: 42px;
-    line-height: 120%;
-    font-weight: 400;
-    position: relative;
+  text-align: left;
+  font-family: 'PP Neue Machina', arial;
+  font-size: 42px;
+  line-height: 120%;
+  font-weight: 400;
+  position: relative;
 }
 
 .dont_div-span3 {
-    color: #e3fe0f;
-    font-family: 'PP Neue Machina', arial;
-    font-size: 42px;
-    line-height: 120%;
-    font-weight: 600;
+  color: #e3fe0f;
+  font-family: 'PP Neue Machina', arial;
+  font-size: 42px;
+  line-height: 120%;
+  font-weight: 600;
 }
 
 .dont_div-span4 {
-    color: #ffffff;
-    font-family: 'PP Neue Machina', arial;
-    font-size: 42px;
-    line-height: 120%;
-    font-weight: 600;
+  color: #ffffff;
+  font-family: 'PP Neue Machina', arial;
+  font-size: 42px;
+  line-height: 120%;
+  font-weight: 600;
 }
 
 .submit_form,
@@ -1655,7 +1621,6 @@ body {
   align-items: flex-start;
   justify-content: flex-start;
   align-self: stretch;
-  flex-shrink: 0;
   position: relative;
 }
 
@@ -1666,7 +1631,6 @@ body {
   align-items: flex-start;
   justify-content: flex-start;
   align-self: stretch;
-  flex-shrink: 0;
   position: relative;
 }
 
@@ -1693,7 +1657,6 @@ body {
   align-items: flex-start;
   justify-content: flex-start;
   align-self: stretch;
-  flex-shrink: 0;
   position: relative;
 }
 
@@ -1719,7 +1682,6 @@ body {
   align-items: flex-start;
   justify-content: flex-start;
   align-self: stretch;
-  flex-shrink: 0;
   position: relative;
 }
 
@@ -1733,7 +1695,6 @@ body {
   align-items: center;
   justify-content: center;
   align-self: stretch;
-  flex-shrink: 0;
   height: 80px;
   position: relative;
 }
@@ -1763,6 +1724,7 @@ body {
 .faq * {
   box-sizing: border-box;
 }
+
 .faq {
   display: flex;
   flex-direction: row;
@@ -1773,17 +1735,18 @@ body {
   left: 100px;
   width: 1000px;
 }
+
 .faq_frame-219 {
   display: flex;
   flex-direction: column;
   gap: 62px;
   align-items: flex-start;
   justify-content: flex-start;
-  flex-shrink: 0;
   width: 320px;
   height: 336px;
   position: relative;
 }
+
 .faq2 {
   color: #ffffff;
   text-align: left;
@@ -1793,6 +1756,7 @@ body {
   font-weight: 700;
   position: relative;
 }
+
 .faq_in-this-section {
   color: #ffffff;
   text-align: left;
@@ -1803,6 +1767,7 @@ body {
   position: relative;
   align-self: stretch;
 }
+
 .faq_write-to-us {
   border-radius: 15px;
   border-style: solid;
@@ -1814,19 +1779,19 @@ body {
   gap: 10px;
   align-items: flex-start;
   justify-content: flex-start;
-  flex-shrink: 0;
   position: relative;
   overflow: hidden;
 }
+
 .faq_frame-188 {
   display: flex;
   flex-direction: row;
   gap: 105px;
   align-items: center;
   justify-content: center;
-  flex-shrink: 0;
   position: relative;
 }
+
 .faq_write-to-us2 {
   color: #ffffff;
   text-align: left;
@@ -1836,23 +1801,24 @@ body {
   font-weight: 400;
   position: relative;
 }
+
 .faq_subtract {
-  flex-shrink: 0;
   width: 32px;
   height: 25px;
   position: relative;
   overflow: visible;
 }
+
 .faq_div {
   display: flex;
   flex-direction: column;
   gap: 35px;
   align-items: flex-start;
   justify-content: flex-start;
-  flex-shrink: 0;
   width: 660px;
   position: relative;
 }
+
 .faq_frame-284 {
   display: flex;
   flex-direction: column;
@@ -1860,9 +1826,9 @@ body {
   align-items: flex-start;
   justify-content: flex-start;
   align-self: stretch;
-  flex-shrink: 0;
   position: relative;
 }
+
 .faq__6 {
   border-radius: 15px;
   border-style: solid;
@@ -1875,18 +1841,18 @@ body {
   align-items: flex-start;
   justify-content: flex-start;
   align-self: stretch;
-  flex-shrink: 0;
   position: relative;
 }
+
 .faq_frame-281 {
   display: flex;
   flex-direction: row;
   align-items: center;
   justify-content: space-between;
   align-self: stretch;
-  flex-shrink: 0;
   position: relative;
 }
+
 .faq_how-much-will-i-earn-by-staking-gpu {
   color: #ffffff;
   text-align: left;
@@ -1896,13 +1862,14 @@ body {
   font-weight: 400;
   position: relative;
 }
+
 .faq_group-281 {
-  flex-shrink: 0;
   width: 24.97px;
   height: 13.16px;
   position: relative;
   overflow: visible;
 }
+
 .faq_how-do-i-buy-gpu {
   color: #ffffff;
   text-align: left;
@@ -1912,13 +1879,14 @@ body {
   font-weight: 400;
   position: relative;
 }
+
 .faq_group-2812 {
-  flex-shrink: 0;
   width: 24.97px;
   height: 13.16px;
   position: relative;
   overflow: visible;
 }
+
 .faq__7 {
   border-radius: 15px;
   border-style: solid;
@@ -1931,9 +1899,9 @@ body {
   align-items: flex-start;
   justify-content: flex-start;
   align-self: stretch;
-  flex-shrink: 0;
   position: relative;
 }
+
 .faq_how-secure-is-a-gpu-node {
   color: #ffffff;
   text-align: left;
@@ -1943,13 +1911,14 @@ body {
   font-weight: 400;
   position: relative;
 }
+
 .faq_group-2813 {
-  flex-shrink: 0;
   width: 24.97px;
   height: 13.16px;
   position: relative;
   overflow: visible;
 }
+
 .faq__8 {
   border-radius: 15px;
   border-style: solid;
@@ -1962,9 +1931,9 @@ body {
   align-items: flex-start;
   justify-content: flex-start;
   align-self: stretch;
-  flex-shrink: 0;
   position: relative;
 }
+
 .faq_how-can-i-access-my-node {
   color: #ffffff;
   text-align: left;
@@ -1974,13 +1943,14 @@ body {
   font-weight: 400;
   position: relative;
 }
+
 .faq_group-2814 {
-  flex-shrink: 0;
   width: 24.97px;
   height: 13.16px;
   position: relative;
   overflow: visible;
 }
+
 .faq__9 {
   border-radius: 15px;
   border-style: solid;
@@ -1993,11 +1963,10 @@ body {
   align-items: flex-start;
   justify-content: flex-start;
   align-self: stretch;
-  flex-shrink: 0;
   position: relative;
 }
+
 .faq_group-2815 {
-  flex-shrink: 0;
   width: 24.97px;
   height: 13.16px;
   position: relative;
@@ -2024,7 +1993,6 @@ body {
 }
 
 .footer_line {
-  flex-shrink: 0;
   width: 1920px;
   height: 0px;
   position: relative;
@@ -2037,13 +2005,11 @@ body {
   gap: 30px;
   align-items: flex-start;
   justify-content: flex-start;
-  flex-shrink: 0;
   width: 1000px;
   position: relative;
 }
 
 .footer_div3 {
-  flex-shrink: 0;
   width: 1000px;
   height: 17px;
   position: static;
@@ -2062,7 +2028,6 @@ body {
 }
 
 .footer_docs {
-  flex-shrink: 0;
   width: 97px;
   height: 15px;
   position: relative;
@@ -2085,7 +2050,6 @@ body {
 }
 
 .footer_docs3 {
-  flex-shrink: 0;
   width: 67px;
   height: 15px;
   position: relative;
@@ -2108,7 +2072,6 @@ body {
 }
 
 .footer_docs5 {
-  flex-shrink: 0;
   width: 96px;
   height: 15px;
   position: relative;
@@ -2131,14 +2094,12 @@ body {
 }
 
 .footer_docs7 {
-  flex-shrink: 0;
   width: 48px;
   height: 15px;
   position: relative;
 }
 
 .footer_docs8 {
-  flex-shrink: 0;
   width: 29px;
   height: 15px;
   position: relative;
@@ -2161,7 +2122,6 @@ body {
 }
 
 .footer_docs10 {
-  flex-shrink: 0;
   width: 30px;
   height: 15px;
   position: relative;
@@ -2219,7 +2179,6 @@ body {
   gap: 700px;
   align-items: flex-end;
   justify-content: flex-start;
-  flex-shrink: 0;
   width: 1000px;
   position: relative;
 }
@@ -2240,13 +2199,11 @@ body {
   gap: 20px;
   align-items: center;
   justify-content: center;
-  flex-shrink: 0;
   height: 30px;
   position: relative;
 }
 
 .footer_dextools {
-  flex-shrink: 0;
   width: 21px;
   height: 23px;
   position: relative;
@@ -2264,7 +2221,6 @@ body {
 }
 
 .footer_etherscan {
-  flex-shrink: 0;
   width: 21px;
   height: 23px;
   position: relative;
@@ -2282,7 +2238,6 @@ body {
 }
 
 .footer_div8 {
-  flex-shrink: 0;
   width: 21px;
   height: 23px;
   position: relative;
@@ -2290,7 +2245,6 @@ body {
 }
 
 .footer_x {
-  flex-shrink: 0;
   width: 21px;
   height: 23px;
   position: relative;
