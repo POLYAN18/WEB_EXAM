@@ -36,6 +36,7 @@ body {
     align-items: flex-start;
     justify-content: flex-start;
     position: relative;
+    left: 100px;
 }
 
 .div {
@@ -179,7 +180,7 @@ body {
 .top {
     position: relative;
     top: 100px;
-    left: 30px;
+    left: 100px;
 }
 
 .top_div2 {
@@ -471,7 +472,7 @@ body {
     align-items: flex-start;
     justify-content: flex-start;
     position: relative;
-    right: -50px;
+    right: -100px;
 }
 
 .choose_why-choose-us {
@@ -818,7 +819,7 @@ body {
     justify-content: flex-start;
     position: relative;
     top: 100px;
-    left: 70px;
+    left: 100px;
 }
 .roadmap2 {
     color: #ffffff;
@@ -1202,7 +1203,7 @@ body {
 .token_tokenomics {
   position: relative;
   top: 500px;
-  right: -50px;
+  right: -100px;
   display: flex;
   gap: 30px;
 }
@@ -1499,7 +1500,7 @@ body {
 .start {
     position: relative;
     top: 1200px;
-   left: 50px;
+   left: 100px;
 
 }
 
@@ -1591,7 +1592,7 @@ body {
 .dont_div * {
     box-sizing: border-box;
     top: 1400px;
-    left: 50px;
+    left: 100px;
 }
 
 .dont_div {
@@ -1632,7 +1633,7 @@ body {
   justify-content: flex-start;
   position: relative;
   top: 1500px;
-  left: 50px;
+  left: 100px;
   width: 1000px;
 }
 
@@ -1769,7 +1770,7 @@ body {
   justify-content: space-between;
   position: relative;
   top: 1600px;
-  left: 50px;
+  left: 100px;
   width: 1000px;
 }
 .faq_frame-219 {
